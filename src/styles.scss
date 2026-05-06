@@ -1,0 +1,12 @@
+@use 'styles/variables' as *;
+
+// Global app styles
+html,
+body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: $font-family-base;
+}
