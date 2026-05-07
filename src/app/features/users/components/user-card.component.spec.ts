@@ -1,87 +1,152 @@
-import { TestBed } from '@angular/core/testing';
+import { describe, it, expect, vi, beforeEach } from 'vitest';
+import { ComponentFixture, TestBed } from '@angular/core/testing';
+import { By } from '@angular/platform-browser';
 import { UserCardComponent } from './user-card.component';
 import { User } from '../models/user.model';
 
 const mockUser: User = {
-  id: '1',
-  name: 'Alice Martínez',
-  email: 'alice@angular-inc.dev',
+  id: 'u1',
+  name: 'Alice Smith',
+  email: 'alice@example.com',
   role: 'admin',
   isActive: true,
-  createdAt: '2024-01-15T08:00:00Z',
+  createdAt: '2024-01-01',
 };
 
 describe('UserCardComponent', () => {
+  let component: UserCardComponent;
+  let fixture: ComponentFixture<UserCardComponent>;
+
+  function createComponent(user: User = mockUser, selected = false) {
+    fixture = TestBed.createComponent(UserCardComponent);
+    fixture.componentRef.setInput('user', user);
+    fixture.componentRef.setInput('selected', selected);
+    fixture.detectChanges();
+    component = fixture.componentInstance;
+  }
+
   beforeEach(async () => {
     await TestBed.configureTestingModule({
       imports: [UserCardComponent],
     }).compileComponents();
   });
 
-  function setup(user = mockUser, selected = false) {
-    const fixture = TestBed.createComponent(UserCardComponent);
-    fixture.componentRef.setInput('user', user);
-    fixture.componentRef.setInput('selected', selected);
-    fixture.detectChanges();
-    return fixture;
-  }
+  // ── Rendering ─────────────────────────────────────────────────────────────
 
-  it('should create', () => {
-    expect(setup().componentInstance).toBeTruthy();
+  it('renders user name, email and role', () => {
+    createComponent();
+    const text = fixture.nativeElement.textContent as string;
+    expect(text).toContain(mockUser.name);
+    expect(text).toContain(mockUser.email);
+    expect(text).toContain(mockUser.role);
   });
 
-  it('should display user name and email', () => {
-    const el = setup().nativeElement as HTMLElement;
-    expect(el.querySelector('.card-title')?.textContent?.trim()).toBe('Alice Martínez');
-    expect(el.querySelector('.card-text')?.textContent?.trim()).toBe('alice@angular-inc.dev');
+  it('shows "Active" badge for active users', () => {
+    createComponent();
+    const badge = fixture.debugElement.query(By.css('.badge.bg-success'));
+    expect(badge).not.toBeNull();
+    expect(badge.nativeElement.textContent.trim()).toBe('Active');
   });
 
-  it('should display the user role', () => {
-    const el = setup().nativeElement as HTMLElement;
-    expect(el.querySelector('.badge.bg-light')?.textContent?.trim()).toBe('admin');
+  it('shows "Inactive" badge for inactive users', () => {
+    createComponent({ ...mockUser, isActive: false });
+    const badge = fixture.debugElement.query(By.css('.badge.bg-secondary'));
+    expect(badge).not.toBeNull();
+    expect(badge.nativeElement.textContent.trim()).toBe('Inactive');
   });
 
-  it('should show Active badge for active users', () => {
-    const badge = setup().nativeElement.querySelector('.badge.bg-success') as HTMLElement;
-    expect(badge?.textContent?.trim()).toBe('Active');
+  // ── selected input ────────────────────────────────────────────────────────
+
+  it('applies border-primary class when selected is true', () => {
+    createComponent(mockUser, true);
+    const card = fixture.debugElement.query(By.css('.card'));
+    expect(card.classes['border-primary']).toBe(true);
   });
 
-  it('should show Inactive badge for inactive users', () => {
-    const badge = setup({ ...mockUser, isActive: false }).nativeElement.querySelector('.badge.bg-secondary') as HTMLElement;
-    expect(badge?.textContent?.trim()).toBe('Inactive');
+  it('does not apply border-primary class when selected is false', () => {
+    createComponent(mockUser, false);
+    const card = fixture.debugElement.query(By.css('.card'));
+    expect(card.classes['border-primary']).toBeFalsy();
   });
 
-  it('should apply border-primary class when selected', () => {
-    const card = setup(mockUser, true).nativeElement.querySelector('.card') as HTMLElement;
-    expect(card.classList).toContain('border-primary');
+  // ── select output ─────────────────────────────────────────────────────────
+
+  it('emits user id via select when card body is clicked', () => {
+    createComponent();
+    const selectSpy = vi.fn();
+    component.select.subscribe(selectSpy);
+    const card = fixture.debugElement.query(By.css('.card'));
+    card.triggerEventHandler('click', new MouseEvent('click'));
+    expect(selectSpy).toHaveBeenCalledWith(mockUser.id);
   });
 
-  it('should not apply border-primary when not selected', () => {
-    const card = setup(mockUser, false).nativeElement.querySelector('.card') as HTMLElement;
-    expect(card.classList).not.toContain('border-primary');
+  it('emits exactly once per click', () => {
+    createComponent();
+    const selectSpy = vi.fn();
+    component.select.subscribe(selectSpy);
+    const card = fixture.debugElement.query(By.css('.card'));
+    card.triggerEventHandler('click', new MouseEvent('click'));
+    card.triggerEventHandler('click', new MouseEvent('click'));
+    expect(selectSpy).toHaveBeenCalledTimes(2);
   });
 
-  it('should emit select with user id on card click', () => {
-    const fixture = setup();
-    const emitted: string[] = [];
-    fixture.componentInstance.select.subscribe((id) => emitted.push(id));
-    (fixture.nativeElement.querySelector('.card') as HTMLElement).click();
-    expect(emitted).toEqual(['1']);
+  // ── delete output ─────────────────────────────────────────────────────────
+
+  it('emits user id via delete when Delete button is clicked', () => {
+    createComponent();
+    const deleteSpy = vi.fn();
+    component.delete.subscribe(deleteSpy);
+    const btn = fixture.debugElement.query(By.css('button[aria-label="Delete user"]'));
+    btn.triggerEventHandler('click', new MouseEvent('click'));
+    expect(deleteSpy).toHaveBeenCalledWith(mockUser.id);
   });
 
-  it('should emit delete with user id on delete button click', () => {
-    const fixture = setup();
-    const emitted: string[] = [];
-    fixture.componentInstance.delete.subscribe((id) => emitted.push(id));
-    (fixture.nativeElement.querySelector('button') as HTMLElement).click();
-    expect(emitted).toEqual(['1']);
+  it('does not emit select when Delete button is clicked (stopPropagation)', () => {
+    createComponent();
+    const selectSpy = vi.fn();
+    component.select.subscribe(selectSpy);
+
+    const event = new MouseEvent('click');
+    vi.spyOn(event, 'stopPropagation');
+    const btn = fixture.debugElement.query(By.css('button[aria-label="Delete user"]'));
+    btn.triggerEventHandler('click', event);
+
+    expect(event.stopPropagation).toHaveBeenCalled();
+    expect(selectSpy).not.toHaveBeenCalled();
   });
 
-  it('should not emit select when delete button is clicked', () => {
-    const fixture = setup();
-    const selectEmitted: string[] = [];
-    fixture.componentInstance.select.subscribe((id) => selectEmitted.push(id));
-    (fixture.nativeElement.querySelector('button') as HTMLElement).click();
-    expect(selectEmitted).toHaveLength(0);
+  // ── onDelete method ───────────────────────────────────────────────────────
+
+  it('onDelete stops event propagation and emits user id', () => {
+    createComponent();
+    const deleteSpy = vi.fn();
+    component.delete.subscribe(deleteSpy);
+    const event = new MouseEvent('click');
+    vi.spyOn(event, 'stopPropagation');
+
+    component.onDelete(event);
+
+    expect(event.stopPropagation).toHaveBeenCalled();
+    expect(deleteSpy).toHaveBeenCalledWith(mockUser.id);
+  });
+
+  // ── role display ──────────────────────────────────────────────────────────
+
+  it.each<User['role']>(['admin', 'editor', 'viewer'])(
+    'displays role "%s" in a badge',
+    (role) => {
+      createComponent({ ...mockUser, role });
+      const roleBadge = fixture.debugElement
+        .queryAll(By.css('.badge'))
+        .find((el) => el.nativeElement.textContent.trim() === role);
+      expect(roleBadge).toBeDefined();
+    },
+  );
+
+  // ── lifecycle ─────────────────────────────────────────────────────────────
+
+  it('destroys without errors', () => {
+    createComponent();
+    expect(() => fixture.destroy()).not.toThrow();
   });
 });
