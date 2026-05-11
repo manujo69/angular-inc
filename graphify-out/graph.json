@@ -1568,9 +1568,9 @@
       "source_file": "coverage/angular-inc/sorter.js",
       "source_location": "L11",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coverage_angular_inc_sorter_js",
-      "target": "angular_inc_sorter_gettable",
-      "confidence_score": 1.0
+      "target": "angular_inc_sorter_gettable"
     },
     {
       "relation": "contains",
@@ -1578,9 +1578,9 @@
       "source_file": "coverage/angular-inc/sorter.js",
       "source_location": "L15",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coverage_angular_inc_sorter_js",
-      "target": "angular_inc_sorter_gettableheader",
-      "confidence_score": 1.0
+      "target": "angular_inc_sorter_gettableheader"
     },
     {
       "relation": "contains",
@@ -1588,9 +1588,9 @@
       "source_file": "coverage/angular-inc/sorter.js",
       "source_location": "L19",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coverage_angular_inc_sorter_js",
-      "target": "angular_inc_sorter_gettablebody",
-      "confidence_score": 1.0
+      "target": "angular_inc_sorter_gettablebody"
     },
     {
       "relation": "contains",
@@ -1598,9 +1598,9 @@
       "source_file": "coverage/angular-inc/sorter.js",
       "source_location": "L23",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coverage_angular_inc_sorter_js",
-      "target": "angular_inc_sorter_getnthcolumn",
-      "confidence_score": 1.0
+      "target": "angular_inc_sorter_getnthcolumn"
     },
     {
       "relation": "contains",
@@ -1608,9 +1608,9 @@
       "source_file": "coverage/angular-inc/sorter.js",
       "source_location": "L27",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coverage_angular_inc_sorter_js",
-      "target": "angular_inc_sorter_onfilterinput",
-      "confidence_score": 1.0
+      "target": "angular_inc_sorter_onfilterinput"
     },
     {
       "relation": "contains",
@@ -1618,9 +1618,9 @@
       "source_file": "coverage/angular-inc/sorter.js",
       "source_location": "L59",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coverage_angular_inc_sorter_js",
-      "target": "angular_inc_sorter_addsearchbox",
-      "confidence_score": 1.0
+      "target": "angular_inc_sorter_addsearchbox"
     },
     {
       "relation": "contains",
@@ -1628,9 +1628,9 @@
       "source_file": "coverage/angular-inc/sorter.js",
       "source_location": "L67",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coverage_angular_inc_sorter_js",
-      "target": "angular_inc_sorter_loadcolumns",
-      "confidence_score": 1.0
+      "target": "angular_inc_sorter_loadcolumns"
     },
     {
       "relation": "contains",
@@ -1638,9 +1638,9 @@
       "source_file": "coverage/angular-inc/sorter.js",
       "source_location": "L92",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coverage_angular_inc_sorter_js",
-      "target": "angular_inc_sorter_loadrowdata",
-      "confidence_score": 1.0
+      "target": "angular_inc_sorter_loadrowdata"
     },
     {
       "relation": "contains",
@@ -1648,9 +1648,9 @@
       "source_file": "coverage/angular-inc/sorter.js",
       "source_location": "L111",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coverage_angular_inc_sorter_js",
-      "target": "angular_inc_sorter_loaddata",
-      "confidence_score": 1.0
+      "target": "angular_inc_sorter_loaddata"
     },
     {
       "relation": "contains",
@@ -1658,9 +1658,9 @@
       "source_file": "coverage/angular-inc/sorter.js",
       "source_location": "L120",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coverage_angular_inc_sorter_js",
-      "target": "angular_inc_sorter_sortbyindex",
-      "confidence_score": 1.0
+      "target": "angular_inc_sorter_sortbyindex"
     },
     {
       "relation": "contains",
@@ -1668,9 +1668,9 @@
       "source_file": "coverage/angular-inc/sorter.js",
       "source_location": "L151",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coverage_angular_inc_sorter_js",
-      "target": "angular_inc_sorter_removesortindicators",
-      "confidence_score": 1.0
+      "target": "angular_inc_sorter_removesortindicators"
     },
     {
       "relation": "contains",
@@ -1678,9 +1678,9 @@
       "source_file": "coverage/angular-inc/sorter.js",
       "source_location": "L159",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coverage_angular_inc_sorter_js",
-      "target": "angular_inc_sorter_addsortindicators",
-      "confidence_score": 1.0
+      "target": "angular_inc_sorter_addsortindicators"
     },
     {
       "relation": "contains",
@@ -1688,9 +1688,9 @@
       "source_file": "coverage/angular-inc/sorter.js",
       "source_location": "L165",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coverage_angular_inc_sorter_js",
-      "target": "angular_inc_sorter_enableui",
-      "confidence_score": 1.0
+      "target": "angular_inc_sorter_enableui"
     },
     {
       "relation": "calls",
@@ -1699,9 +1699,9 @@
       "source_file": "coverage/angular-inc/sorter.js",
       "source_location": "L16",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "angular_inc_sorter_gettableheader",
-      "target": "angular_inc_sorter_gettable",
-      "confidence_score": 1.0
+      "target": "angular_inc_sorter_gettable"
     },
     {
       "relation": "calls",
@@ -1710,9 +1710,9 @@
       "source_file": "coverage/angular-inc/sorter.js",
       "source_location": "L20",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "angular_inc_sorter_gettablebody",
-      "target": "angular_inc_sorter_gettable",
-      "confidence_score": 1.0
+      "target": "angular_inc_sorter_gettable"
     },
     {
       "relation": "calls",
@@ -1721,9 +1721,9 @@
       "source_file": "coverage/angular-inc/sorter.js",
       "source_location": "L24",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "angular_inc_sorter_getnthcolumn",
-      "target": "angular_inc_sorter_gettableheader",
-      "confidence_score": 1.0
+      "target": "angular_inc_sorter_gettableheader"
     },
     {
       "relation": "calls",
@@ -1732,9 +1732,9 @@
       "source_file": "coverage/angular-inc/sorter.js",
       "source_location": "L68",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "angular_inc_sorter_loadcolumns",
-      "target": "angular_inc_sorter_gettableheader",
-      "confidence_score": 1.0
+      "target": "angular_inc_sorter_gettableheader"
     },
     {
       "relation": "calls",
@@ -1743,9 +1743,9 @@
       "source_file": "coverage/angular-inc/sorter.js",
       "source_location": "L112",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "angular_inc_sorter_loaddata",
-      "target": "angular_inc_sorter_gettablebody",
-      "confidence_score": 1.0
+      "target": "angular_inc_sorter_gettablebody"
     },
     {
       "relation": "calls",
@@ -1754,9 +1754,9 @@
       "source_file": "coverage/angular-inc/sorter.js",
       "source_location": "L152",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "angular_inc_sorter_removesortindicators",
-      "target": "angular_inc_sorter_getnthcolumn",
-      "confidence_score": 1.0
+      "target": "angular_inc_sorter_getnthcolumn"
     },
     {
       "relation": "calls",
@@ -1765,9 +1765,9 @@
       "source_file": "coverage/angular-inc/sorter.js",
       "source_location": "L160",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "angular_inc_sorter_addsortindicators",
-      "target": "angular_inc_sorter_getnthcolumn",
-      "confidence_score": 1.0
+      "target": "angular_inc_sorter_getnthcolumn"
     },
     {
       "relation": "calls",
@@ -1776,9 +1776,9 @@
       "source_file": "coverage/angular-inc/sorter.js",
       "source_location": "L188",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "angular_inc_sorter_enableui",
-      "target": "angular_inc_sorter_getnthcolumn",
-      "confidence_score": 1.0
+      "target": "angular_inc_sorter_getnthcolumn"
     },
     {
       "relation": "calls",
@@ -1787,9 +1787,9 @@
       "source_file": "coverage/angular-inc/sorter.js",
       "source_location": "L116",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "angular_inc_sorter_loaddata",
-      "target": "angular_inc_sorter_loadrowdata",
-      "confidence_score": 1.0
+      "target": "angular_inc_sorter_loadrowdata"
     },
     {
       "relation": "calls",
@@ -1798,9 +1798,9 @@
       "source_file": "coverage/angular-inc/sorter.js",
       "source_location": "L177",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "angular_inc_sorter_enableui",
-      "target": "angular_inc_sorter_sortbyindex",
-      "confidence_score": 1.0
+      "target": "angular_inc_sorter_sortbyindex"
     },
     {
       "relation": "calls",
@@ -1809,9 +1809,9 @@
       "source_file": "coverage/angular-inc/sorter.js",
       "source_location": "L178",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "angular_inc_sorter_enableui",
-      "target": "angular_inc_sorter_removesortindicators",
-      "confidence_score": 1.0
+      "target": "angular_inc_sorter_removesortindicators"
     },
     {
       "relation": "calls",
@@ -1820,9 +1820,9 @@
       "source_file": "coverage/angular-inc/sorter.js",
       "source_location": "L181",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "angular_inc_sorter_enableui",
-      "target": "angular_inc_sorter_addsortindicators",
-      "confidence_score": 1.0
+      "target": "angular_inc_sorter_addsortindicators"
     },
     {
       "relation": "contains",
@@ -1830,9 +1830,9 @@
       "source_file": "coverage/angular-inc/block-navigation.js",
       "source_location": "L24",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coverage_angular_inc_block_navigation_js",
-      "target": "angular_inc_block_navigation_toggleclass",
-      "confidence_score": 1.0
+      "target": "angular_inc_block_navigation_toggleclass"
     },
     {
       "relation": "contains",
@@ -1840,9 +1840,9 @@
       "source_file": "coverage/angular-inc/block-navigation.js",
       "source_location": "L31",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coverage_angular_inc_block_navigation_js",
-      "target": "angular_inc_block_navigation_makecurrent",
-      "confidence_score": 1.0
+      "target": "angular_inc_block_navigation_makecurrent"
     },
     {
       "relation": "contains",
@@ -1850,9 +1850,9 @@
       "source_file": "coverage/angular-inc/block-navigation.js",
       "source_location": "L41",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coverage_angular_inc_block_navigation_js",
-      "target": "angular_inc_block_navigation_gotoprevious",
-      "confidence_score": 1.0
+      "target": "angular_inc_block_navigation_gotoprevious"
     },
     {
       "relation": "contains",
@@ -1860,9 +1860,9 @@
       "source_file": "coverage/angular-inc/block-navigation.js",
       "source_location": "L52",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coverage_angular_inc_block_navigation_js",
-      "target": "angular_inc_block_navigation_gotonext",
-      "confidence_score": 1.0
+      "target": "angular_inc_block_navigation_gotonext"
     },
     {
       "relation": "calls",
@@ -1871,9 +1871,9 @@
       "source_file": "coverage/angular-inc/block-navigation.js",
       "source_location": "L32",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "angular_inc_block_navigation_makecurrent",
-      "target": "angular_inc_block_navigation_toggleclass",
-      "confidence_score": 1.0
+      "target": "angular_inc_block_navigation_toggleclass"
     },
     {
       "relation": "calls",
@@ -1882,9 +1882,9 @@
       "source_file": "coverage/angular-inc/block-navigation.js",
       "source_location": "L49",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "angular_inc_block_navigation_gotoprevious",
-      "target": "angular_inc_block_navigation_makecurrent",
-      "confidence_score": 1.0
+      "target": "angular_inc_block_navigation_makecurrent"
     },
     {
       "relation": "calls",
@@ -1893,9 +1893,9 @@
       "source_file": "coverage/angular-inc/block-navigation.js",
       "source_location": "L62",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "angular_inc_block_navigation_gotonext",
-      "target": "angular_inc_block_navigation_makecurrent",
-      "confidence_score": 1.0
+      "target": "angular_inc_block_navigation_makecurrent"
     },
     {
       "relation": "contains",
@@ -1903,9 +1903,9 @@
       "source_file": "coverage/angular-inc/prettify.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coverage_angular_inc_prettify_js",
-      "target": "angular_inc_prettify_k",
-      "confidence_score": 1.0
+      "target": "angular_inc_prettify_k"
     },
     {
       "relation": "contains",
@@ -1913,9 +1913,9 @@
       "source_file": "coverage/angular-inc/prettify.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coverage_angular_inc_prettify_js",
-      "target": "angular_inc_prettify_a",
-      "confidence_score": 1.0
+      "target": "angular_inc_prettify_a"
     },
     {
       "relation": "contains",
@@ -1923,9 +1923,9 @@
       "source_file": "coverage/angular-inc/prettify.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coverage_angular_inc_prettify_js",
-      "target": "angular_inc_prettify_b",
-      "confidence_score": 1.0
+      "target": "angular_inc_prettify_b"
     },
     {
       "relation": "contains",
@@ -1933,9 +1933,9 @@
       "source_file": "coverage/angular-inc/prettify.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coverage_angular_inc_prettify_js",
-      "target": "angular_inc_prettify_o",
-      "confidence_score": 1.0
+      "target": "angular_inc_prettify_o"
     },
     {
       "relation": "contains",
@@ -1943,9 +1943,9 @@
       "source_file": "coverage/angular-inc/prettify.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coverage_angular_inc_prettify_js",
-      "target": "angular_inc_prettify_g",
-      "confidence_score": 1.0
+      "target": "angular_inc_prettify_g"
     },
     {
       "relation": "contains",
@@ -1953,9 +1953,9 @@
       "source_file": "coverage/angular-inc/prettify.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coverage_angular_inc_prettify_js",
-      "target": "angular_inc_prettify_i",
-      "confidence_score": 1.0
+      "target": "angular_inc_prettify_i"
     },
     {
       "relation": "contains",
@@ -1963,9 +1963,9 @@
       "source_file": "coverage/angular-inc/prettify.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coverage_angular_inc_prettify_js",
-      "target": "angular_inc_prettify_q",
-      "confidence_score": 1.0
+      "target": "angular_inc_prettify_q"
     },
     {
       "relation": "contains",
@@ -1973,9 +1973,9 @@
       "source_file": "coverage/angular-inc/prettify.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coverage_angular_inc_prettify_js",
-      "target": "angular_inc_prettify_d",
-      "confidence_score": 1.0
+      "target": "angular_inc_prettify_d"
     },
     {
       "relation": "contains",
@@ -1983,9 +1983,9 @@
       "source_file": "coverage/angular-inc/prettify.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coverage_angular_inc_prettify_js",
-      "target": "angular_inc_prettify_c",
-      "confidence_score": 1.0
+      "target": "angular_inc_prettify_c"
     },
     {
       "relation": "contains",
@@ -1993,9 +1993,9 @@
       "source_file": "coverage/angular-inc/prettify.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coverage_angular_inc_prettify_js",
-      "target": "angular_inc_prettify_y",
-      "confidence_score": 1.0
+      "target": "angular_inc_prettify_y"
     },
     {
       "relation": "calls",
@@ -2004,9 +2004,9 @@
       "source_file": "coverage/angular-inc/prettify.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "angular_inc_prettify_g",
-      "target": "angular_inc_prettify_k",
-      "confidence_score": 1.0
+      "target": "angular_inc_prettify_k"
     },
     {
       "relation": "calls",
@@ -2015,9 +2015,9 @@
       "source_file": "coverage/angular-inc/prettify.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "angular_inc_prettify_d",
-      "target": "angular_inc_prettify_a",
-      "confidence_score": 1.0
+      "target": "angular_inc_prettify_a"
     },
     {
       "relation": "calls",
@@ -2026,9 +2026,9 @@
       "source_file": "coverage/angular-inc/prettify.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "angular_inc_prettify_g",
-      "target": "angular_inc_prettify_b",
-      "confidence_score": 1.0
+      "target": "angular_inc_prettify_b"
     },
     {
       "relation": "calls",
@@ -2037,9 +2037,9 @@
       "source_file": "coverage/angular-inc/prettify.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "angular_inc_prettify_b",
-      "target": "angular_inc_prettify_y",
-      "confidence_score": 1.0
+      "target": "angular_inc_prettify_y"
     },
     {
       "relation": "calls",
@@ -2048,9 +2048,9 @@
       "source_file": "coverage/angular-inc/prettify.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "angular_inc_prettify_g",
-      "target": "angular_inc_prettify_q",
-      "confidence_score": 1.0
+      "target": "angular_inc_prettify_q"
     },
     {
       "relation": "calls",
@@ -2059,9 +2059,9 @@
       "source_file": "coverage/angular-inc/prettify.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "angular_inc_prettify_i",
-      "target": "angular_inc_prettify_g",
-      "confidence_score": 1.0
+      "target": "angular_inc_prettify_g"
     },
     {
       "relation": "calls",
@@ -2070,9 +2070,9 @@
       "source_file": "coverage/angular-inc/prettify.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "angular_inc_prettify_d",
-      "target": "angular_inc_prettify_q",
-      "confidence_score": 1.0
+      "target": "angular_inc_prettify_q"
     },
     {
       "relation": "calls",
@@ -2081,9 +2081,9 @@
       "source_file": "coverage/angular-inc/prettify.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "angular_inc_prettify_y",
-      "target": "angular_inc_prettify_q",
-      "confidence_score": 1.0
+      "target": "angular_inc_prettify_q"
     },
     {
       "relation": "calls",
@@ -2092,9 +2092,9 @@
       "source_file": "coverage/angular-inc/prettify.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "angular_inc_prettify_y",
-      "target": "angular_inc_prettify_d",
-      "confidence_score": 1.0
+      "target": "angular_inc_prettify_d"
     },
     {
       "relation": "contains",
@@ -2102,9 +2102,9 @@
       "source_file": "coverage/angular-inc/lcov-report/sorter.js",
       "source_location": "L11",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coverage_angular_inc_lcov_report_sorter_js",
-      "target": "lcov_report_sorter_gettable",
-      "confidence_score": 1.0
+      "target": "lcov_report_sorter_gettable"
     },
     {
       "relation": "contains",
@@ -2112,9 +2112,9 @@
       "source_file": "coverage/angular-inc/lcov-report/sorter.js",
       "source_location": "L15",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coverage_angular_inc_lcov_report_sorter_js",
-      "target": "lcov_report_sorter_gettableheader",
-      "confidence_score": 1.0
+      "target": "lcov_report_sorter_gettableheader"
     },
     {
       "relation": "contains",
@@ -2122,9 +2122,9 @@
       "source_file": "coverage/angular-inc/lcov-report/sorter.js",
       "source_location": "L19",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coverage_angular_inc_lcov_report_sorter_js",
-      "target": "lcov_report_sorter_gettablebody",
-      "confidence_score": 1.0
+      "target": "lcov_report_sorter_gettablebody"
     },
     {
       "relation": "contains",
@@ -2132,9 +2132,9 @@
       "source_file": "coverage/angular-inc/lcov-report/sorter.js",
       "source_location": "L23",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coverage_angular_inc_lcov_report_sorter_js",
-      "target": "lcov_report_sorter_getnthcolumn",
-      "confidence_score": 1.0
+      "target": "lcov_report_sorter_getnthcolumn"
     },
     {
       "relation": "contains",
@@ -2142,9 +2142,9 @@
       "source_file": "coverage/angular-inc/lcov-report/sorter.js",
       "source_location": "L27",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coverage_angular_inc_lcov_report_sorter_js",
-      "target": "lcov_report_sorter_onfilterinput",
-      "confidence_score": 1.0
+      "target": "lcov_report_sorter_onfilterinput"
     },
     {
       "relation": "contains",
@@ -2152,9 +2152,9 @@
       "source_file": "coverage/angular-inc/lcov-report/sorter.js",
       "source_location": "L59",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coverage_angular_inc_lcov_report_sorter_js",
-      "target": "lcov_report_sorter_addsearchbox",
-      "confidence_score": 1.0
+      "target": "lcov_report_sorter_addsearchbox"
     },
     {
       "relation": "contains",
@@ -2162,9 +2162,9 @@
       "source_file": "coverage/angular-inc/lcov-report/sorter.js",
       "source_location": "L67",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coverage_angular_inc_lcov_report_sorter_js",
-      "target": "lcov_report_sorter_loadcolumns",
-      "confidence_score": 1.0
+      "target": "lcov_report_sorter_loadcolumns"
     },
     {
       "relation": "contains",
@@ -2172,9 +2172,9 @@
       "source_file": "coverage/angular-inc/lcov-report/sorter.js",
       "source_location": "L92",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coverage_angular_inc_lcov_report_sorter_js",
-      "target": "lcov_report_sorter_loadrowdata",
-      "confidence_score": 1.0
+      "target": "lcov_report_sorter_loadrowdata"
     },
     {
       "relation": "contains",
@@ -2182,9 +2182,9 @@
       "source_file": "coverage/angular-inc/lcov-report/sorter.js",
       "source_location": "L111",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coverage_angular_inc_lcov_report_sorter_js",
-      "target": "lcov_report_sorter_loaddata",
-      "confidence_score": 1.0
+      "target": "lcov_report_sorter_loaddata"
     },
     {
       "relation": "contains",
@@ -2192,9 +2192,9 @@
       "source_file": "coverage/angular-inc/lcov-report/sorter.js",
       "source_location": "L120",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coverage_angular_inc_lcov_report_sorter_js",
-      "target": "lcov_report_sorter_sortbyindex",
-      "confidence_score": 1.0
+      "target": "lcov_report_sorter_sortbyindex"
     },
     {
       "relation": "contains",
@@ -2202,9 +2202,9 @@
       "source_file": "coverage/angular-inc/lcov-report/sorter.js",
       "source_location": "L151",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coverage_angular_inc_lcov_report_sorter_js",
-      "target": "lcov_report_sorter_removesortindicators",
-      "confidence_score": 1.0
+      "target": "lcov_report_sorter_removesortindicators"
     },
     {
       "relation": "contains",
@@ -2212,9 +2212,9 @@
       "source_file": "coverage/angular-inc/lcov-report/sorter.js",
       "source_location": "L159",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coverage_angular_inc_lcov_report_sorter_js",
-      "target": "lcov_report_sorter_addsortindicators",
-      "confidence_score": 1.0
+      "target": "lcov_report_sorter_addsortindicators"
     },
     {
       "relation": "contains",
@@ -2222,9 +2222,9 @@
       "source_file": "coverage/angular-inc/lcov-report/sorter.js",
       "source_location": "L165",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coverage_angular_inc_lcov_report_sorter_js",
-      "target": "lcov_report_sorter_enableui",
-      "confidence_score": 1.0
+      "target": "lcov_report_sorter_enableui"
     },
     {
       "relation": "calls",
@@ -2233,9 +2233,9 @@
       "source_file": "coverage/angular-inc/lcov-report/sorter.js",
       "source_location": "L16",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "lcov_report_sorter_gettableheader",
-      "target": "lcov_report_sorter_gettable",
-      "confidence_score": 1.0
+      "target": "lcov_report_sorter_gettable"
     },
     {
       "relation": "calls",
@@ -2244,9 +2244,9 @@
       "source_file": "coverage/angular-inc/lcov-report/sorter.js",
       "source_location": "L20",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "lcov_report_sorter_gettablebody",
-      "target": "lcov_report_sorter_gettable",
-      "confidence_score": 1.0
+      "target": "lcov_report_sorter_gettable"
     },
     {
       "relation": "calls",
@@ -2255,9 +2255,9 @@
       "source_file": "coverage/angular-inc/lcov-report/sorter.js",
       "source_location": "L24",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "lcov_report_sorter_getnthcolumn",
-      "target": "lcov_report_sorter_gettableheader",
-      "confidence_score": 1.0
+      "target": "lcov_report_sorter_gettableheader"
     },
     {
       "relation": "calls",
@@ -2266,9 +2266,9 @@
       "source_file": "coverage/angular-inc/lcov-report/sorter.js",
       "source_location": "L68",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "lcov_report_sorter_loadcolumns",
-      "target": "lcov_report_sorter_gettableheader",
-      "confidence_score": 1.0
+      "target": "lcov_report_sorter_gettableheader"
     },
     {
       "relation": "calls",
@@ -2277,9 +2277,9 @@
       "source_file": "coverage/angular-inc/lcov-report/sorter.js",
       "source_location": "L112",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "lcov_report_sorter_loaddata",
-      "target": "lcov_report_sorter_gettablebody",
-      "confidence_score": 1.0
+      "target": "lcov_report_sorter_gettablebody"
     },
     {
       "relation": "calls",
@@ -2288,9 +2288,9 @@
       "source_file": "coverage/angular-inc/lcov-report/sorter.js",
       "source_location": "L152",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "lcov_report_sorter_removesortindicators",
-      "target": "lcov_report_sorter_getnthcolumn",
-      "confidence_score": 1.0
+      "target": "lcov_report_sorter_getnthcolumn"
     },
     {
       "relation": "calls",
@@ -2299,9 +2299,9 @@
       "source_file": "coverage/angular-inc/lcov-report/sorter.js",
       "source_location": "L160",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "lcov_report_sorter_addsortindicators",
-      "target": "lcov_report_sorter_getnthcolumn",
-      "confidence_score": 1.0
+      "target": "lcov_report_sorter_getnthcolumn"
     },
     {
       "relation": "calls",
@@ -2310,9 +2310,9 @@
       "source_file": "coverage/angular-inc/lcov-report/sorter.js",
       "source_location": "L188",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "lcov_report_sorter_enableui",
-      "target": "lcov_report_sorter_getnthcolumn",
-      "confidence_score": 1.0
+      "target": "lcov_report_sorter_getnthcolumn"
     },
     {
       "relation": "calls",
@@ -2321,9 +2321,9 @@
       "source_file": "coverage/angular-inc/lcov-report/sorter.js",
       "source_location": "L116",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "lcov_report_sorter_loaddata",
-      "target": "lcov_report_sorter_loadrowdata",
-      "confidence_score": 1.0
+      "target": "lcov_report_sorter_loadrowdata"
     },
     {
       "relation": "calls",
@@ -2332,9 +2332,9 @@
       "source_file": "coverage/angular-inc/lcov-report/sorter.js",
       "source_location": "L177",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "lcov_report_sorter_enableui",
-      "target": "lcov_report_sorter_sortbyindex",
-      "confidence_score": 1.0
+      "target": "lcov_report_sorter_sortbyindex"
     },
     {
       "relation": "calls",
@@ -2343,9 +2343,9 @@
       "source_file": "coverage/angular-inc/lcov-report/sorter.js",
       "source_location": "L178",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "lcov_report_sorter_enableui",
-      "target": "lcov_report_sorter_removesortindicators",
-      "confidence_score": 1.0
+      "target": "lcov_report_sorter_removesortindicators"
     },
     {
       "relation": "calls",
@@ -2354,9 +2354,9 @@
       "source_file": "coverage/angular-inc/lcov-report/sorter.js",
       "source_location": "L181",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "lcov_report_sorter_enableui",
-      "target": "lcov_report_sorter_addsortindicators",
-      "confidence_score": 1.0
+      "target": "lcov_report_sorter_addsortindicators"
     },
     {
       "relation": "contains",
@@ -2364,9 +2364,9 @@
       "source_file": "coverage/angular-inc/lcov-report/block-navigation.js",
       "source_location": "L24",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coverage_angular_inc_lcov_report_block_navigation_js",
-      "target": "lcov_report_block_navigation_toggleclass",
-      "confidence_score": 1.0
+      "target": "lcov_report_block_navigation_toggleclass"
     },
     {
       "relation": "contains",
@@ -2374,9 +2374,9 @@
       "source_file": "coverage/angular-inc/lcov-report/block-navigation.js",
       "source_location": "L31",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coverage_angular_inc_lcov_report_block_navigation_js",
-      "target": "lcov_report_block_navigation_makecurrent",
-      "confidence_score": 1.0
+      "target": "lcov_report_block_navigation_makecurrent"
     },
     {
       "relation": "contains",
@@ -2384,9 +2384,9 @@
       "source_file": "coverage/angular-inc/lcov-report/block-navigation.js",
       "source_location": "L41",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coverage_angular_inc_lcov_report_block_navigation_js",
-      "target": "lcov_report_block_navigation_gotoprevious",
-      "confidence_score": 1.0
+      "target": "lcov_report_block_navigation_gotoprevious"
     },
     {
       "relation": "contains",
@@ -2394,9 +2394,9 @@
       "source_file": "coverage/angular-inc/lcov-report/block-navigation.js",
       "source_location": "L52",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coverage_angular_inc_lcov_report_block_navigation_js",
-      "target": "lcov_report_block_navigation_gotonext",
-      "confidence_score": 1.0
+      "target": "lcov_report_block_navigation_gotonext"
     },
     {
       "relation": "calls",
@@ -2405,9 +2405,9 @@
       "source_file": "coverage/angular-inc/lcov-report/block-navigation.js",
       "source_location": "L32",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "lcov_report_block_navigation_makecurrent",
-      "target": "lcov_report_block_navigation_toggleclass",
-      "confidence_score": 1.0
+      "target": "lcov_report_block_navigation_toggleclass"
     },
     {
       "relation": "calls",
@@ -2416,9 +2416,9 @@
       "source_file": "coverage/angular-inc/lcov-report/block-navigation.js",
       "source_location": "L49",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "lcov_report_block_navigation_gotoprevious",
-      "target": "lcov_report_block_navigation_makecurrent",
-      "confidence_score": 1.0
+      "target": "lcov_report_block_navigation_makecurrent"
     },
     {
       "relation": "calls",
@@ -2427,9 +2427,9 @@
       "source_file": "coverage/angular-inc/lcov-report/block-navigation.js",
       "source_location": "L62",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "lcov_report_block_navigation_gotonext",
-      "target": "lcov_report_block_navigation_makecurrent",
-      "confidence_score": 1.0
+      "target": "lcov_report_block_navigation_makecurrent"
     },
     {
       "relation": "contains",
@@ -2437,9 +2437,9 @@
       "source_file": "coverage/angular-inc/lcov-report/prettify.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coverage_angular_inc_lcov_report_prettify_js",
-      "target": "lcov_report_prettify_k",
-      "confidence_score": 1.0
+      "target": "lcov_report_prettify_k"
     },
     {
       "relation": "contains",
@@ -2447,9 +2447,9 @@
       "source_file": "coverage/angular-inc/lcov-report/prettify.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coverage_angular_inc_lcov_report_prettify_js",
-      "target": "lcov_report_prettify_a",
-      "confidence_score": 1.0
+      "target": "lcov_report_prettify_a"
     },
     {
       "relation": "contains",
@@ -2457,9 +2457,9 @@
       "source_file": "coverage/angular-inc/lcov-report/prettify.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coverage_angular_inc_lcov_report_prettify_js",
-      "target": "lcov_report_prettify_b",
-      "confidence_score": 1.0
+      "target": "lcov_report_prettify_b"
     },
     {
       "relation": "contains",
@@ -2467,9 +2467,9 @@
       "source_file": "coverage/angular-inc/lcov-report/prettify.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coverage_angular_inc_lcov_report_prettify_js",
-      "target": "lcov_report_prettify_o",
-      "confidence_score": 1.0
+      "target": "lcov_report_prettify_o"
     },
     {
       "relation": "contains",
@@ -2477,9 +2477,9 @@
       "source_file": "coverage/angular-inc/lcov-report/prettify.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coverage_angular_inc_lcov_report_prettify_js",
-      "target": "lcov_report_prettify_g",
-      "confidence_score": 1.0
+      "target": "lcov_report_prettify_g"
     },
     {
       "relation": "contains",
@@ -2487,9 +2487,9 @@
       "source_file": "coverage/angular-inc/lcov-report/prettify.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coverage_angular_inc_lcov_report_prettify_js",
-      "target": "lcov_report_prettify_i",
-      "confidence_score": 1.0
+      "target": "lcov_report_prettify_i"
     },
     {
       "relation": "contains",
@@ -2497,9 +2497,9 @@
       "source_file": "coverage/angular-inc/lcov-report/prettify.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coverage_angular_inc_lcov_report_prettify_js",
-      "target": "lcov_report_prettify_q",
-      "confidence_score": 1.0
+      "target": "lcov_report_prettify_q"
     },
     {
       "relation": "contains",
@@ -2507,9 +2507,9 @@
       "source_file": "coverage/angular-inc/lcov-report/prettify.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coverage_angular_inc_lcov_report_prettify_js",
-      "target": "lcov_report_prettify_d",
-      "confidence_score": 1.0
+      "target": "lcov_report_prettify_d"
     },
     {
       "relation": "contains",
@@ -2517,9 +2517,9 @@
       "source_file": "coverage/angular-inc/lcov-report/prettify.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coverage_angular_inc_lcov_report_prettify_js",
-      "target": "lcov_report_prettify_c",
-      "confidence_score": 1.0
+      "target": "lcov_report_prettify_c"
     },
     {
       "relation": "contains",
@@ -2527,9 +2527,9 @@
       "source_file": "coverage/angular-inc/lcov-report/prettify.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coverage_angular_inc_lcov_report_prettify_js",
-      "target": "lcov_report_prettify_y",
-      "confidence_score": 1.0
+      "target": "lcov_report_prettify_y"
     },
     {
       "relation": "calls",
@@ -2538,9 +2538,9 @@
       "source_file": "coverage/angular-inc/lcov-report/prettify.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "lcov_report_prettify_g",
-      "target": "lcov_report_prettify_k",
-      "confidence_score": 1.0
+      "target": "lcov_report_prettify_k"
     },
     {
       "relation": "calls",
@@ -2549,9 +2549,9 @@
       "source_file": "coverage/angular-inc/lcov-report/prettify.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "lcov_report_prettify_d",
-      "target": "lcov_report_prettify_a",
-      "confidence_score": 1.0
+      "target": "lcov_report_prettify_a"
     },
     {
       "relation": "calls",
@@ -2560,9 +2560,9 @@
       "source_file": "coverage/angular-inc/lcov-report/prettify.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "lcov_report_prettify_g",
-      "target": "lcov_report_prettify_b",
-      "confidence_score": 1.0
+      "target": "lcov_report_prettify_b"
     },
     {
       "relation": "calls",
@@ -2571,9 +2571,9 @@
       "source_file": "coverage/angular-inc/lcov-report/prettify.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "lcov_report_prettify_b",
-      "target": "lcov_report_prettify_y",
-      "confidence_score": 1.0
+      "target": "lcov_report_prettify_y"
     },
     {
       "relation": "calls",
@@ -2582,9 +2582,9 @@
       "source_file": "coverage/angular-inc/lcov-report/prettify.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "lcov_report_prettify_g",
-      "target": "lcov_report_prettify_q",
-      "confidence_score": 1.0
+      "target": "lcov_report_prettify_q"
     },
     {
       "relation": "calls",
@@ -2593,9 +2593,9 @@
       "source_file": "coverage/angular-inc/lcov-report/prettify.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "lcov_report_prettify_i",
-      "target": "lcov_report_prettify_g",
-      "confidence_score": 1.0
+      "target": "lcov_report_prettify_g"
     },
     {
       "relation": "calls",
@@ -2604,9 +2604,9 @@
       "source_file": "coverage/angular-inc/lcov-report/prettify.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "lcov_report_prettify_d",
-      "target": "lcov_report_prettify_q",
-      "confidence_score": 1.0
+      "target": "lcov_report_prettify_q"
     },
     {
       "relation": "calls",
@@ -2615,9 +2615,9 @@
       "source_file": "coverage/angular-inc/lcov-report/prettify.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "lcov_report_prettify_y",
-      "target": "lcov_report_prettify_q",
-      "confidence_score": 1.0
+      "target": "lcov_report_prettify_q"
     },
     {
       "relation": "calls",
@@ -2626,9 +2626,9 @@
       "source_file": "coverage/angular-inc/lcov-report/prettify.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "lcov_report_prettify_y",
-      "target": "lcov_report_prettify_d",
-      "confidence_score": 1.0
+      "target": "lcov_report_prettify_d"
     },
     {
       "relation": "imports_from",
@@ -2637,9 +2637,9 @@
       "source_file": "src/main.ts",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_main_ts",
-      "target": "src_app_app_config_ts",
-      "confidence_score": 1.0
+      "target": "src_app_app_config_ts"
     },
     {
       "relation": "imports",
@@ -2648,9 +2648,9 @@
       "source_file": "src/main.ts",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_main_ts",
-      "target": "app_app_config_appconfig",
-      "confidence_score": 1.0
+      "target": "app_app_config_appconfig"
     },
     {
       "relation": "imports_from",
@@ -2659,9 +2659,9 @@
       "source_file": "src/main.ts",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_main_ts",
-      "target": "src_app_app_ts",
-      "confidence_score": 1.0
+      "target": "src_app_app_ts"
     },
     {
       "relation": "imports",
@@ -2670,9 +2670,9 @@
       "source_file": "src/main.ts",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_main_ts",
-      "target": "app_app_app",
-      "confidence_score": 1.0
+      "target": "app_app_app"
     },
     {
       "relation": "contains",
@@ -2680,9 +2680,9 @@
       "source_file": "src/app/app.routes.ts",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_app_routes_ts",
-      "target": "app_app_routes_routes",
-      "confidence_score": 1.0
+      "target": "app_app_routes_routes"
     },
     {
       "relation": "imports_from",
@@ -2691,9 +2691,9 @@
       "source_file": "src/app/app.config.ts",
       "source_location": "L8",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_app_config_ts",
-      "target": "src_app_app_routes_ts",
-      "confidence_score": 1.0
+      "target": "src_app_app_routes_ts"
     },
     {
       "relation": "imports",
@@ -2702,9 +2702,9 @@
       "source_file": "src/app/app.config.ts",
       "source_location": "L8",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_app_config_ts",
-      "target": "app_app_routes_routes",
-      "confidence_score": 1.0
+      "target": "app_app_routes_routes"
     },
     {
       "relation": "contains",
@@ -2712,9 +2712,9 @@
       "source_file": "src/app/app.ts",
       "source_location": "L11",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_app_ts",
-      "target": "app_app_app",
-      "confidence_score": 1.0
+      "target": "app_app_app"
     },
     {
       "relation": "imports_from",
@@ -2723,9 +2723,9 @@
       "source_file": "src/app/app.spec.ts",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_app_spec_ts",
-      "target": "src_app_app_ts",
-      "confidence_score": 1.0
+      "target": "src_app_app_ts"
     },
     {
       "relation": "imports",
@@ -2734,9 +2734,9 @@
       "source_file": "src/app/app.spec.ts",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_app_spec_ts",
-      "target": "app_app_app",
-      "confidence_score": 1.0
+      "target": "app_app_app"
     },
     {
       "relation": "imports_from",
@@ -2745,9 +2745,9 @@
       "source_file": "src/app/app.config.ts",
       "source_location": "L9",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_app_config_ts",
-      "target": "src_environments_environment_ts",
-      "confidence_score": 1.0
+      "target": "src_environments_environment_ts"
     },
     {
       "relation": "imports",
@@ -2756,9 +2756,9 @@
       "source_file": "src/app/app.config.ts",
       "source_location": "L9",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_app_config_ts",
-      "target": "environments_environment_environment",
-      "confidence_score": 1.0
+      "target": "environments_environment_environment"
     },
     {
       "relation": "imports_from",
@@ -2767,9 +2767,9 @@
       "source_file": "src/app/app.config.ts",
       "source_location": "L10",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_app_config_ts",
-      "target": "src_app_features_users_services_user_api_service_ts",
-      "confidence_score": 1.0
+      "target": "src_app_features_users_services_user_api_service_ts"
     },
     {
       "relation": "imports",
@@ -2778,9 +2778,9 @@
       "source_file": "src/app/app.config.ts",
       "source_location": "L10",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_app_config_ts",
-      "target": "services_user_api_service_userapiservice",
-      "confidence_score": 1.0
+      "target": "services_user_api_service_userapiservice"
     },
     {
       "relation": "imports_from",
@@ -2789,9 +2789,9 @@
       "source_file": "src/app/app.config.ts",
       "source_location": "L11",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_app_config_ts",
-      "target": "src_app_features_users_services_mock_user_api_service_ts",
-      "confidence_score": 1.0
+      "target": "src_app_features_users_services_mock_user_api_service_ts"
     },
     {
       "relation": "imports",
@@ -2800,9 +2800,9 @@
       "source_file": "src/app/app.config.ts",
       "source_location": "L11",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_app_config_ts",
-      "target": "services_mock_user_api_service_mockuserapiservice",
-      "confidence_score": 1.0
+      "target": "services_mock_user_api_service_mockuserapiservice"
     },
     {
       "relation": "contains",
@@ -2810,9 +2810,9 @@
       "source_file": "src/app/app.config.ts",
       "source_location": "L13",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_app_config_ts",
-      "target": "app_app_config_appconfig",
-      "confidence_score": 1.0
+      "target": "app_app_config_appconfig"
     },
     {
       "relation": "contains",
@@ -2820,9 +2820,9 @@
       "source_file": "src/app/app.spec.ts",
       "source_location": "L26",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_app_spec_ts",
-      "target": "app_app_spec_fixture",
-      "confidence_score": 1.0
+      "target": "app_app_spec_fixture"
     },
     {
       "relation": "contains",
@@ -2830,9 +2830,9 @@
       "source_file": "src/app/app.spec.ts",
       "source_location": "L21",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_app_spec_ts",
-      "target": "app_app_spec_el",
-      "confidence_score": 1.0
+      "target": "app_app_spec_el"
     },
     {
       "relation": "contains",
@@ -2840,9 +2840,9 @@
       "source_file": "src/app/shared/components/data-table/data-table.component.ts",
       "source_location": "L10",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_shared_components_data_table_data_table_component_ts",
-      "target": "data_table_data_table_component_tablecolumn",
-      "confidence_score": 1.0
+      "target": "data_table_data_table_component_tablecolumn"
     },
     {
       "relation": "contains",
@@ -2850,9 +2850,9 @@
       "source_file": "src/app/shared/components/data-table/data-table.component.ts",
       "source_location": "L63",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_shared_components_data_table_data_table_component_ts",
-      "target": "data_table_data_table_component_datatablecomponent",
-      "confidence_score": 1.0
+      "target": "data_table_data_table_component_datatablecomponent"
     },
     {
       "relation": "contains",
@@ -2860,9 +2860,9 @@
       "source_file": "src/app/shared/components/data-table/data-table.component.ts",
       "source_location": "L72",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_shared_components_data_table_data_table_component_ts",
-      "target": "data_table_data_table_component_key",
-      "confidence_score": 1.0
+      "target": "data_table_data_table_component_key"
     },
     {
       "relation": "contains",
@@ -2870,9 +2870,9 @@
       "source_file": "src/app/shared/components/data-table/data-table.component.ts",
       "source_location": "L77",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_shared_components_data_table_data_table_component_ts",
-      "target": "data_table_data_table_component_cmp",
-      "confidence_score": 1.0
+      "target": "data_table_data_table_component_cmp"
     },
     {
       "relation": "imports_from",
@@ -2881,9 +2881,9 @@
       "source_file": "src/app/shared/components/data-table/data-table.component.spec.ts",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_shared_components_data_table_data_table_component_spec_ts",
-      "target": "src_app_shared_components_data_table_data_table_component_ts",
-      "confidence_score": 1.0
+      "target": "src_app_shared_components_data_table_data_table_component_ts"
     },
     {
       "relation": "imports",
@@ -2892,9 +2892,9 @@
       "source_file": "src/app/shared/components/data-table/data-table.component.spec.ts",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_shared_components_data_table_data_table_component_spec_ts",
-      "target": "data_table_data_table_component_tablecolumn",
-      "confidence_score": 1.0
+      "target": "data_table_data_table_component_tablecolumn"
     },
     {
       "relation": "method",
@@ -2902,9 +2902,9 @@
       "source_file": "src/app/shared/components/data-table/data-table.component.ts",
       "source_location": "L82",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "data_table_data_table_component_datatablecomponent",
-      "target": "data_table_data_table_component_datatablecomponent_togglesort",
-      "confidence_score": 1.0
+      "target": "data_table_data_table_component_datatablecomponent_togglesort"
     },
     {
       "relation": "imports",
@@ -2913,9 +2913,9 @@
       "source_file": "src/app/shared/components/data-table/data-table.component.spec.ts",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_shared_components_data_table_data_table_component_spec_ts",
-      "target": "data_table_data_table_component_datatablecomponent",
-      "confidence_score": 1.0
+      "target": "data_table_data_table_component_datatablecomponent"
     },
     {
       "relation": "contains",
@@ -2923,9 +2923,9 @@
       "source_file": "src/app/shared/components/data-table/data-table.component.spec.ts",
       "source_location": "L4",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_shared_components_data_table_data_table_component_spec_ts",
-      "target": "data_table_data_table_component_spec_columns",
-      "confidence_score": 1.0
+      "target": "data_table_data_table_component_spec_columns"
     },
     {
       "relation": "contains",
@@ -2933,9 +2933,9 @@
       "source_file": "src/app/shared/components/data-table/data-table.component.spec.ts",
       "source_location": "L9",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_shared_components_data_table_data_table_component_spec_ts",
-      "target": "data_table_data_table_component_spec_data",
-      "confidence_score": 1.0
+      "target": "data_table_data_table_component_spec_data"
     },
     {
       "relation": "contains",
@@ -2943,9 +2943,9 @@
       "source_file": "src/app/shared/components/data-table/data-table.component.spec.ts",
       "source_location": "L22",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_shared_components_data_table_data_table_component_spec_ts",
-      "target": "data_table_data_table_component_spec_setup",
-      "confidence_score": 1.0
+      "target": "data_table_data_table_component_spec_setup"
     },
     {
       "relation": "contains",
@@ -2953,9 +2953,9 @@
       "source_file": "src/app/shared/components/data-table/data-table.component.spec.ts",
       "source_location": "L35",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_shared_components_data_table_data_table_component_spec_ts",
-      "target": "data_table_data_table_component_spec_ths",
-      "confidence_score": 1.0
+      "target": "data_table_data_table_component_spec_ths"
     },
     {
       "relation": "contains",
@@ -2963,9 +2963,9 @@
       "source_file": "src/app/shared/components/data-table/data-table.component.spec.ts",
       "source_location": "L41",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_shared_components_data_table_data_table_component_spec_ts",
-      "target": "data_table_data_table_component_spec_rows",
-      "confidence_score": 1.0
+      "target": "data_table_data_table_component_spec_rows"
     },
     {
       "relation": "contains",
@@ -2973,9 +2973,9 @@
       "source_file": "src/app/shared/components/data-table/data-table.component.spec.ts",
       "source_location": "L46",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_shared_components_data_table_data_table_component_spec_ts",
-      "target": "data_table_data_table_component_spec_cells",
-      "confidence_score": 1.0
+      "target": "data_table_data_table_component_spec_cells"
     },
     {
       "relation": "contains",
@@ -2983,9 +2983,9 @@
       "source_file": "src/app/shared/components/data-table/data-table.component.spec.ts",
       "source_location": "L52",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_shared_components_data_table_data_table_component_spec_ts",
-      "target": "data_table_data_table_component_spec_el",
-      "confidence_score": 1.0
+      "target": "data_table_data_table_component_spec_el"
     },
     {
       "relation": "contains",
@@ -2993,9 +2993,9 @@
       "source_file": "src/app/shared/components/data-table/data-table.component.spec.ts",
       "source_location": "L83",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_shared_components_data_table_data_table_component_spec_ts",
-      "target": "data_table_data_table_component_spec_fixture",
-      "confidence_score": 1.0
+      "target": "data_table_data_table_component_spec_fixture"
     },
     {
       "relation": "contains",
@@ -3003,9 +3003,9 @@
       "source_file": "src/app/shared/components/data-table/data-table.component.spec.ts",
       "source_location": "L78",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_shared_components_data_table_data_table_component_spec_ts",
-      "target": "data_table_data_table_component_spec_firstcell",
-      "confidence_score": 1.0
+      "target": "data_table_data_table_component_spec_firstcell"
     },
     {
       "relation": "contains",
@@ -3013,9 +3013,9 @@
       "source_file": "src/app/shared/components/data-table/data-table.component.spec.ts",
       "source_location": "L66",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_shared_components_data_table_data_table_component_spec_ts",
-      "target": "data_table_data_table_component_spec_nameheader",
-      "confidence_score": 1.0
+      "target": "data_table_data_table_component_spec_nameheader"
     },
     {
       "relation": "contains",
@@ -3023,9 +3023,9 @@
       "source_file": "src/app/shared/components/data-table/data-table.component.spec.ts",
       "source_location": "L84",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_shared_components_data_table_data_table_component_spec_ts",
-      "target": "data_table_data_table_component_spec_emitted",
-      "confidence_score": 1.0
+      "target": "data_table_data_table_component_spec_emitted"
     },
     {
       "relation": "contains",
@@ -3033,9 +3033,9 @@
       "source_file": "src/app/features/users/users.routes.ts",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_features_users_users_routes_ts",
-      "target": "users_users_routes_usersroutes",
-      "confidence_score": 1.0
+      "target": "users_users_routes_usersroutes"
     },
     {
       "relation": "imports_from",
@@ -3044,9 +3044,9 @@
       "source_file": "src/app/features/users/services/user-api.service.ts",
       "source_location": "L4",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_features_users_services_user_api_service_ts",
-      "target": "src_app_features_users_models_user_model_ts",
-      "confidence_score": 1.0
+      "target": "src_app_features_users_models_user_model_ts"
     },
     {
       "relation": "imports",
@@ -3055,9 +3055,9 @@
       "source_file": "src/app/features/users/services/user-api.service.ts",
       "source_location": "L4",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_features_users_services_user_api_service_ts",
-      "target": "models_user_model_user",
-      "confidence_score": 1.0
+      "target": "models_user_model_user"
     },
     {
       "relation": "contains",
@@ -3065,9 +3065,9 @@
       "source_file": "src/app/features/users/services/user-api.service.ts",
       "source_location": "L7",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_features_users_services_user_api_service_ts",
-      "target": "services_user_api_service_userapiservice",
-      "confidence_score": 1.0
+      "target": "services_user_api_service_userapiservice"
     },
     {
       "relation": "imports_from",
@@ -3076,9 +3076,9 @@
       "source_file": "src/app/features/users/services/mock-user-api.service.ts",
       "source_location": "L5",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_features_users_services_mock_user_api_service_ts",
-      "target": "src_app_features_users_services_user_api_service_ts",
-      "confidence_score": 1.0
+      "target": "src_app_features_users_services_user_api_service_ts"
     },
     {
       "relation": "imports_from",
@@ -3087,9 +3087,9 @@
       "source_file": "src/app/features/users/state/users.store.ts",
       "source_location": "L12",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_features_users_state_users_store_ts",
-      "target": "src_app_features_users_services_user_api_service_ts",
-      "confidence_score": 1.0
+      "target": "src_app_features_users_services_user_api_service_ts"
     },
     {
       "relation": "imports_from",
@@ -3098,9 +3098,9 @@
       "source_file": "src/app/features/users/state/users.store.spec.ts",
       "source_location": "L4",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_features_users_state_users_store_spec_ts",
-      "target": "src_app_features_users_services_user_api_service_ts",
-      "confidence_score": 1.0
+      "target": "src_app_features_users_services_user_api_service_ts"
     },
     {
       "relation": "method",
@@ -3108,9 +3108,9 @@
       "source_file": "src/app/features/users/services/user-api.service.ts",
       "source_location": "L11",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "services_user_api_service_userapiservice",
-      "target": "services_user_api_service_userapiservice_getall",
-      "confidence_score": 1.0
+      "target": "services_user_api_service_userapiservice_getall"
     },
     {
       "relation": "method",
@@ -3118,9 +3118,9 @@
       "source_file": "src/app/features/users/services/user-api.service.ts",
       "source_location": "L15",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "services_user_api_service_userapiservice",
-      "target": "services_user_api_service_userapiservice_getbyid",
-      "confidence_score": 1.0
+      "target": "services_user_api_service_userapiservice_getbyid"
     },
     {
       "relation": "method",
@@ -3128,9 +3128,9 @@
       "source_file": "src/app/features/users/services/user-api.service.ts",
       "source_location": "L19",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "services_user_api_service_userapiservice",
-      "target": "services_user_api_service_userapiservice_create",
-      "confidence_score": 1.0
+      "target": "services_user_api_service_userapiservice_create"
     },
     {
       "relation": "method",
@@ -3138,9 +3138,9 @@
       "source_file": "src/app/features/users/services/user-api.service.ts",
       "source_location": "L23",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "services_user_api_service_userapiservice",
-      "target": "services_user_api_service_userapiservice_update",
-      "confidence_score": 1.0
+      "target": "services_user_api_service_userapiservice_update"
     },
     {
       "relation": "method",
@@ -3148,9 +3148,9 @@
       "source_file": "src/app/features/users/services/user-api.service.ts",
       "source_location": "L27",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "services_user_api_service_userapiservice",
-      "target": "services_user_api_service_userapiservice_delete",
-      "confidence_score": 1.0
+      "target": "services_user_api_service_userapiservice_delete"
     },
     {
       "relation": "imports",
@@ -3159,9 +3159,9 @@
       "source_file": "src/app/features/users/services/mock-user-api.service.ts",
       "source_location": "L5",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_features_users_services_mock_user_api_service_ts",
-      "target": "services_user_api_service_userapiservice",
-      "confidence_score": 1.0
+      "target": "services_user_api_service_userapiservice"
     },
     {
       "relation": "imports",
@@ -3170,9 +3170,9 @@
       "source_file": "src/app/features/users/state/users.store.ts",
       "source_location": "L12",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_features_users_state_users_store_ts",
-      "target": "services_user_api_service_userapiservice",
-      "confidence_score": 1.0
+      "target": "services_user_api_service_userapiservice"
     },
     {
       "relation": "imports",
@@ -3181,9 +3181,9 @@
       "source_file": "src/app/features/users/state/users.store.spec.ts",
       "source_location": "L4",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_features_users_state_users_store_spec_ts",
-      "target": "services_user_api_service_userapiservice",
-      "confidence_score": 1.0
+      "target": "services_user_api_service_userapiservice"
     },
     {
       "relation": "imports_from",
@@ -3192,9 +3192,9 @@
       "source_file": "src/app/features/users/services/mock-user-api.service.ts",
       "source_location": "L4",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_features_users_services_mock_user_api_service_ts",
-      "target": "src_app_features_users_models_user_model_ts",
-      "confidence_score": 1.0
+      "target": "src_app_features_users_models_user_model_ts"
     },
     {
       "relation": "imports",
@@ -3203,9 +3203,9 @@
       "source_file": "src/app/features/users/services/mock-user-api.service.ts",
       "source_location": "L4",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_features_users_services_mock_user_api_service_ts",
-      "target": "models_user_model_user",
-      "confidence_score": 1.0
+      "target": "models_user_model_user"
     },
     {
       "relation": "contains",
@@ -3213,9 +3213,9 @@
       "source_file": "src/app/features/users/services/mock-user-api.service.ts",
       "source_location": "L7",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_features_users_services_mock_user_api_service_ts",
-      "target": "services_mock_user_api_service_mock_users",
-      "confidence_score": 1.0
+      "target": "services_mock_user_api_service_mock_users"
     },
     {
       "relation": "contains",
@@ -3223,9 +3223,9 @@
       "source_file": "src/app/features/users/services/mock-user-api.service.ts",
       "source_location": "L51",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_features_users_services_mock_user_api_service_ts",
-      "target": "services_mock_user_api_service_mockuserapiservice",
-      "confidence_score": 1.0
+      "target": "services_mock_user_api_service_mockuserapiservice"
     },
     {
       "relation": "method",
@@ -3233,9 +3233,9 @@
       "source_file": "src/app/features/users/services/mock-user-api.service.ts",
       "source_location": "L54",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "services_mock_user_api_service_mockuserapiservice",
-      "target": "services_mock_user_api_service_mockuserapiservice_getall",
-      "confidence_score": 1.0
+      "target": "services_mock_user_api_service_mockuserapiservice_getall"
     },
     {
       "relation": "method",
@@ -3243,9 +3243,9 @@
       "source_file": "src/app/features/users/services/mock-user-api.service.ts",
       "source_location": "L58",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "services_mock_user_api_service_mockuserapiservice",
-      "target": "services_mock_user_api_service_mockuserapiservice_getbyid",
-      "confidence_score": 1.0
+      "target": "services_mock_user_api_service_mockuserapiservice_getbyid"
     },
     {
       "relation": "method",
@@ -3253,9 +3253,9 @@
       "source_file": "src/app/features/users/services/mock-user-api.service.ts",
       "source_location": "L65",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "services_mock_user_api_service_mockuserapiservice",
-      "target": "services_mock_user_api_service_mockuserapiservice_create",
-      "confidence_score": 1.0
+      "target": "services_mock_user_api_service_mockuserapiservice_create"
     },
     {
       "relation": "method",
@@ -3263,9 +3263,9 @@
       "source_file": "src/app/features/users/services/mock-user-api.service.ts",
       "source_location": "L74",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "services_mock_user_api_service_mockuserapiservice",
-      "target": "services_mock_user_api_service_mockuserapiservice_update",
-      "confidence_score": 1.0
+      "target": "services_mock_user_api_service_mockuserapiservice_update"
     },
     {
       "relation": "method",
@@ -3273,9 +3273,9 @@
       "source_file": "src/app/features/users/services/mock-user-api.service.ts",
       "source_location": "L80",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "services_mock_user_api_service_mockuserapiservice",
-      "target": "services_mock_user_api_service_mockuserapiservice_delete",
-      "confidence_score": 1.0
+      "target": "services_mock_user_api_service_mockuserapiservice_delete"
     },
     {
       "relation": "imports_from",
@@ -3284,9 +3284,9 @@
       "source_file": "src/app/features/users/state/users.store.ts",
       "source_location": "L13",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_features_users_state_users_store_ts",
-      "target": "src_app_features_users_models_user_model_ts",
-      "confidence_score": 1.0
+      "target": "src_app_features_users_models_user_model_ts"
     },
     {
       "relation": "imports",
@@ -3295,9 +3295,9 @@
       "source_file": "src/app/features/users/state/users.store.ts",
       "source_location": "L13",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_features_users_state_users_store_ts",
-      "target": "models_user_model_user",
-      "confidence_score": 1.0
+      "target": "models_user_model_user"
     },
     {
       "relation": "contains",
@@ -3305,9 +3305,9 @@
       "source_file": "src/app/features/users/state/users.store.ts",
       "source_location": "L15",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_features_users_state_users_store_ts",
-      "target": "state_users_store_usersstate",
-      "confidence_score": 1.0
+      "target": "state_users_store_usersstate"
     },
     {
       "relation": "contains",
@@ -3315,9 +3315,9 @@
       "source_file": "src/app/features/users/state/users.store.ts",
       "source_location": "L22",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_features_users_state_users_store_ts",
-      "target": "state_users_store_initialstate",
-      "confidence_score": 1.0
+      "target": "state_users_store_initialstate"
     },
     {
       "relation": "contains",
@@ -3325,9 +3325,9 @@
       "source_file": "src/app/features/users/state/users.store.ts",
       "source_location": "L29",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_features_users_state_users_store_ts",
-      "target": "state_users_store_usersstore",
-      "confidence_score": 1.0
+      "target": "state_users_store_usersstore"
     },
     {
       "relation": "imports_from",
@@ -3336,9 +3336,9 @@
       "source_file": "src/app/features/users/state/users.store.spec.ts",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_features_users_state_users_store_spec_ts",
-      "target": "src_app_features_users_state_users_store_ts",
-      "confidence_score": 1.0
+      "target": "src_app_features_users_state_users_store_ts"
     },
     {
       "relation": "imports_from",
@@ -3347,9 +3347,9 @@
       "source_file": "src/app/features/users/components/user-list.component.spec.ts",
       "source_location": "L6",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_features_users_components_user_list_component_spec_ts",
-      "target": "src_app_features_users_state_users_store_ts",
-      "confidence_score": 1.0
+      "target": "src_app_features_users_state_users_store_ts"
     },
     {
       "relation": "imports_from",
@@ -3358,9 +3358,9 @@
       "source_file": "src/app/features/users/components/user-list.component.ts",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_features_users_components_user_list_component_ts",
-      "target": "src_app_features_users_state_users_store_ts",
-      "confidence_score": 1.0
+      "target": "src_app_features_users_state_users_store_ts"
     },
     {
       "relation": "imports",
@@ -3369,9 +3369,9 @@
       "source_file": "src/app/features/users/state/users.store.spec.ts",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_features_users_state_users_store_spec_ts",
-      "target": "state_users_store_usersstore",
-      "confidence_score": 1.0
+      "target": "state_users_store_usersstore"
     },
     {
       "relation": "imports",
@@ -3380,9 +3380,9 @@
       "source_file": "src/app/features/users/components/user-list.component.spec.ts",
       "source_location": "L6",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_features_users_components_user_list_component_spec_ts",
-      "target": "state_users_store_usersstore",
-      "confidence_score": 1.0
+      "target": "state_users_store_usersstore"
     },
     {
       "relation": "imports",
@@ -3391,9 +3391,9 @@
       "source_file": "src/app/features/users/components/user-list.component.ts",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_features_users_components_user_list_component_ts",
-      "target": "state_users_store_usersstore",
-      "confidence_score": 1.0
+      "target": "state_users_store_usersstore"
     },
     {
       "relation": "imports_from",
@@ -3402,9 +3402,9 @@
       "source_file": "src/app/features/users/state/users.store.spec.ts",
       "source_location": "L5",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_features_users_state_users_store_spec_ts",
-      "target": "src_app_features_users_models_user_model_ts",
-      "confidence_score": 1.0
+      "target": "src_app_features_users_models_user_model_ts"
     },
     {
       "relation": "imports",
@@ -3413,9 +3413,9 @@
       "source_file": "src/app/features/users/state/users.store.spec.ts",
       "source_location": "L5",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_features_users_state_users_store_spec_ts",
-      "target": "models_user_model_user",
-      "confidence_score": 1.0
+      "target": "models_user_model_user"
     },
     {
       "relation": "contains",
@@ -3423,9 +3423,9 @@
       "source_file": "src/app/features/users/state/users.store.spec.ts",
       "source_location": "L7",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_features_users_state_users_store_spec_ts",
-      "target": "state_users_store_spec_mockusers",
-      "confidence_score": 1.0
+      "target": "state_users_store_spec_mockusers"
     },
     {
       "relation": "contains",
@@ -3433,9 +3433,9 @@
       "source_file": "src/app/features/users/models/user.model.ts",
       "source_location": "L1",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_features_users_models_user_model_ts",
-      "target": "models_user_model_user",
-      "confidence_score": 1.0
+      "target": "models_user_model_user"
     },
     {
       "relation": "imports_from",
@@ -3444,9 +3444,9 @@
       "source_file": "src/app/features/users/components/user-list.component.spec.ts",
       "source_location": "L7",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_features_users_components_user_list_component_spec_ts",
-      "target": "src_app_features_users_models_user_model_ts",
-      "confidence_score": 1.0
+      "target": "src_app_features_users_models_user_model_ts"
     },
     {
       "relation": "imports_from",
@@ -3455,9 +3455,9 @@
       "source_file": "src/app/features/users/components/user-card.component.spec.ts",
       "source_location": "L5",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_features_users_components_user_card_component_spec_ts",
-      "target": "src_app_features_users_models_user_model_ts",
-      "confidence_score": 1.0
+      "target": "src_app_features_users_models_user_model_ts"
     },
     {
       "relation": "imports_from",
@@ -3466,9 +3466,9 @@
       "source_file": "src/app/features/users/components/user-card.component.ts",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_features_users_components_user_card_component_ts",
-      "target": "src_app_features_users_models_user_model_ts",
-      "confidence_score": 1.0
+      "target": "src_app_features_users_models_user_model_ts"
     },
     {
       "relation": "imports",
@@ -3477,9 +3477,9 @@
       "source_file": "src/app/features/users/components/user-list.component.spec.ts",
       "source_location": "L7",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_features_users_components_user_list_component_spec_ts",
-      "target": "models_user_model_user",
-      "confidence_score": 1.0
+      "target": "models_user_model_user"
     },
     {
       "relation": "imports",
@@ -3488,9 +3488,9 @@
       "source_file": "src/app/features/users/components/user-card.component.spec.ts",
       "source_location": "L5",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_features_users_components_user_card_component_spec_ts",
-      "target": "models_user_model_user",
-      "confidence_score": 1.0
+      "target": "models_user_model_user"
     },
     {
       "relation": "imports",
@@ -3499,9 +3499,9 @@
       "source_file": "src/app/features/users/components/user-card.component.ts",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_features_users_components_user_card_component_ts",
-      "target": "models_user_model_user",
-      "confidence_score": 1.0
+      "target": "models_user_model_user"
     },
     {
       "relation": "imports_from",
@@ -3510,9 +3510,9 @@
       "source_file": "src/app/features/users/components/user-list.component.spec.ts",
       "source_location": "L5",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_features_users_components_user_list_component_spec_ts",
-      "target": "src_app_features_users_components_user_list_component_ts",
-      "confidence_score": 1.0
+      "target": "src_app_features_users_components_user_list_component_ts"
     },
     {
       "relation": "imports",
@@ -3521,9 +3521,9 @@
       "source_file": "src/app/features/users/components/user-list.component.spec.ts",
       "source_location": "L5",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_features_users_components_user_list_component_spec_ts",
-      "target": "components_user_list_component_userlistcomponent",
-      "confidence_score": 1.0
+      "target": "components_user_list_component_userlistcomponent"
     },
     {
       "relation": "contains",
@@ -3531,9 +3531,9 @@
       "source_file": "src/app/features/users/components/user-list.component.spec.ts",
       "source_location": "L9",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_features_users_components_user_list_component_spec_ts",
-      "target": "components_user_list_component_spec_mockusers",
-      "confidence_score": 1.0
+      "target": "components_user_list_component_spec_mockusers"
     },
     {
       "relation": "contains",
@@ -3541,9 +3541,9 @@
       "source_file": "src/app/features/users/components/user-list.component.spec.ts",
       "source_location": "L28",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_features_users_components_user_list_component_spec_ts",
-      "target": "components_user_list_component_spec_createmockstore",
-      "confidence_score": 1.0
+      "target": "components_user_list_component_spec_createmockstore"
     },
     {
       "relation": "contains",
@@ -3551,9 +3551,9 @@
       "source_file": "src/app/features/users/components/user-list.component.spec.ts",
       "source_location": "L92",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_features_users_components_user_list_component_spec_ts",
-      "target": "components_user_list_component_spec_spinner",
-      "confidence_score": 1.0
+      "target": "components_user_list_component_spec_spinner"
     },
     {
       "relation": "contains",
@@ -3561,9 +3561,9 @@
       "source_file": "src/app/features/users/components/user-list.component.spec.ts",
       "source_location": "L84",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_features_users_components_user_list_component_spec_ts",
-      "target": "components_user_list_component_spec_grid",
-      "confidence_score": 1.0
+      "target": "components_user_list_component_spec_grid"
     },
     {
       "relation": "contains",
@@ -3571,9 +3571,9 @@
       "source_file": "src/app/features/users/components/user-list.component.spec.ts",
       "source_location": "L102",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_features_users_components_user_list_component_spec_ts",
-      "target": "components_user_list_component_spec_alert",
-      "confidence_score": 1.0
+      "target": "components_user_list_component_spec_alert"
     },
     {
       "relation": "contains",
@@ -3581,9 +3581,9 @@
       "source_file": "src/app/features/users/components/user-list.component.spec.ts",
       "source_location": "L142",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_features_users_components_user_list_component_spec_ts",
-      "target": "components_user_list_component_spec_badge",
-      "confidence_score": 1.0
+      "target": "components_user_list_component_spec_badge"
     },
     {
       "relation": "contains",
@@ -3591,9 +3591,9 @@
       "source_file": "src/app/features/users/components/user-list.component.spec.ts",
       "source_location": "L204",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_features_users_components_user_list_component_spec_ts",
-      "target": "components_user_list_component_spec_cards",
-      "confidence_score": 1.0
+      "target": "components_user_list_component_spec_cards"
     },
     {
       "relation": "contains",
@@ -3601,9 +3601,9 @@
       "source_file": "src/app/features/users/components/user-list.component.spec.ts",
       "source_location": "L160",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_features_users_components_user_list_component_spec_ts",
-      "target": "components_user_list_component_spec_empty",
-      "confidence_score": 1.0
+      "target": "components_user_list_component_spec_empty"
     },
     {
       "relation": "contains",
@@ -3611,9 +3611,9 @@
       "source_file": "src/app/features/users/components/user-list.component.spec.ts",
       "source_location": "L224",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_features_users_components_user_list_component_spec_ts",
-      "target": "components_user_list_component_spec_card",
-      "confidence_score": 1.0
+      "target": "components_user_list_component_spec_card"
     },
     {
       "relation": "imports_from",
@@ -3622,9 +3622,9 @@
       "source_file": "src/app/features/users/components/user-card.component.spec.ts",
       "source_location": "L4",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_features_users_components_user_card_component_spec_ts",
-      "target": "src_app_features_users_components_user_card_component_ts",
-      "confidence_score": 1.0
+      "target": "src_app_features_users_components_user_card_component_ts"
     },
     {
       "relation": "imports",
@@ -3633,9 +3633,9 @@
       "source_file": "src/app/features/users/components/user-card.component.spec.ts",
       "source_location": "L4",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_features_users_components_user_card_component_spec_ts",
-      "target": "components_user_card_component_usercardcomponent",
-      "confidence_score": 1.0
+      "target": "components_user_card_component_usercardcomponent"
     },
     {
       "relation": "contains",
@@ -3643,9 +3643,9 @@
       "source_file": "src/app/features/users/components/user-card.component.spec.ts",
       "source_location": "L7",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_features_users_components_user_card_component_spec_ts",
-      "target": "components_user_card_component_spec_mockuser",
-      "confidence_score": 1.0
+      "target": "components_user_card_component_spec_mockuser"
     },
     {
       "relation": "contains",
@@ -3653,9 +3653,9 @@
       "source_file": "src/app/features/users/components/user-card.component.spec.ts",
       "source_location": "L20",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_features_users_components_user_card_component_spec_ts",
-      "target": "components_user_card_component_spec_createcomponent",
-      "confidence_score": 1.0
+      "target": "components_user_card_component_spec_createcomponent"
     },
     {
       "relation": "contains",
@@ -3663,9 +3663,9 @@
       "source_file": "src/app/features/users/components/user-card.component.spec.ts",
       "source_location": "L38",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_features_users_components_user_card_component_spec_ts",
-      "target": "components_user_card_component_spec_text",
-      "confidence_score": 1.0
+      "target": "components_user_card_component_spec_text"
     },
     {
       "relation": "contains",
@@ -3673,9 +3673,9 @@
       "source_file": "src/app/features/users/components/user-card.component.spec.ts",
       "source_location": "L53",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_features_users_components_user_card_component_spec_ts",
-      "target": "components_user_card_component_spec_badge",
-      "confidence_score": 1.0
+      "target": "components_user_card_component_spec_badge"
     },
     {
       "relation": "contains",
@@ -3683,9 +3683,9 @@
       "source_file": "src/app/features/users/components/user-card.component.spec.ts",
       "source_location": "L87",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_features_users_components_user_card_component_spec_ts",
-      "target": "components_user_card_component_spec_card",
-      "confidence_score": 1.0
+      "target": "components_user_card_component_spec_card"
     },
     {
       "relation": "contains",
@@ -3693,9 +3693,9 @@
       "source_file": "src/app/features/users/components/user-card.component.spec.ts",
       "source_location": "L106",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_features_users_components_user_card_component_spec_ts",
-      "target": "components_user_card_component_spec_selectspy",
-      "confidence_score": 1.0
+      "target": "components_user_card_component_spec_selectspy"
     },
     {
       "relation": "contains",
@@ -3703,9 +3703,9 @@
       "source_file": "src/app/features/users/components/user-card.component.spec.ts",
       "source_location": "L122",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_features_users_components_user_card_component_spec_ts",
-      "target": "components_user_card_component_spec_deletespy",
-      "confidence_score": 1.0
+      "target": "components_user_card_component_spec_deletespy"
     },
     {
       "relation": "contains",
@@ -3713,9 +3713,9 @@
       "source_file": "src/app/features/users/components/user-card.component.spec.ts",
       "source_location": "L111",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_features_users_components_user_card_component_spec_ts",
-      "target": "components_user_card_component_spec_btn",
-      "confidence_score": 1.0
+      "target": "components_user_card_component_spec_btn"
     },
     {
       "relation": "contains",
@@ -3723,9 +3723,9 @@
       "source_file": "src/app/features/users/components/user-card.component.spec.ts",
       "source_location": "L124",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_features_users_components_user_card_component_spec_ts",
-      "target": "components_user_card_component_spec_event",
-      "confidence_score": 1.0
+      "target": "components_user_card_component_spec_event"
     },
     {
       "relation": "contains",
@@ -3733,9 +3733,9 @@
       "source_file": "src/app/features/users/components/user-card.component.spec.ts",
       "source_location": "L139",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_features_users_components_user_card_component_spec_ts",
-      "target": "components_user_card_component_spec_rolebadge",
-      "confidence_score": 1.0
+      "target": "components_user_card_component_spec_rolebadge"
     },
     {
       "relation": "imports_from",
@@ -3744,9 +3744,9 @@
       "source_file": "src/app/features/users/components/user-list.component.ts",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_features_users_components_user_list_component_ts",
-      "target": "src_app_features_users_components_user_card_component_ts",
-      "confidence_score": 1.0
+      "target": "src_app_features_users_components_user_card_component_ts"
     },
     {
       "relation": "imports",
@@ -3755,9 +3755,9 @@
       "source_file": "src/app/features/users/components/user-list.component.ts",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_features_users_components_user_list_component_ts",
-      "target": "components_user_card_component_usercardcomponent",
-      "confidence_score": 1.0
+      "target": "components_user_card_component_usercardcomponent"
     },
     {
       "relation": "contains",
@@ -3765,9 +3765,9 @@
       "source_file": "src/app/features/users/components/user-list.component.ts",
       "source_location": "L61",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_features_users_components_user_list_component_ts",
-      "target": "components_user_list_component_userlistcomponent",
-      "confidence_score": 1.0
+      "target": "components_user_list_component_userlistcomponent"
     },
     {
       "relation": "method",
@@ -3775,9 +3775,9 @@
       "source_file": "src/app/features/users/components/user-list.component.ts",
       "source_location": "L64",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "components_user_list_component_userlistcomponent",
-      "target": "components_user_list_component_userlistcomponent_ngoninit",
-      "confidence_score": 1.0
+      "target": "components_user_list_component_userlistcomponent_ngoninit"
     },
     {
       "relation": "contains",
@@ -3785,9 +3785,9 @@
       "source_file": "src/app/features/users/components/user-card.component.ts",
       "source_location": "L42",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_app_features_users_components_user_card_component_ts",
-      "target": "components_user_card_component_usercardcomponent",
-      "confidence_score": 1.0
+      "target": "components_user_card_component_usercardcomponent"
     },
     {
       "relation": "method",
@@ -3795,9 +3795,9 @@
       "source_file": "src/app/features/users/components/user-card.component.ts",
       "source_location": "L48",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "components_user_card_component_usercardcomponent",
-      "target": "components_user_card_component_usercardcomponent_ondelete",
-      "confidence_score": 1.0
+      "target": "components_user_card_component_usercardcomponent_ondelete"
     },
     {
       "relation": "contains",
@@ -3805,9 +3805,9 @@
       "source_file": "src/environments/environment.ts",
       "source_location": "L1",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_environments_environment_ts",
-      "target": "environments_environment_environment",
-      "confidence_score": 1.0
+      "target": "environments_environment_environment"
     },
     {
       "relation": "contains",
@@ -3815,9 +3815,9 @@
       "source_file": "src/environments/environment.prod.ts",
       "source_location": "L1",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "src_environments_environment_prod_ts",
-      "target": "environments_environment_prod_environment",
-      "confidence_score": 1.0
+      "target": "environments_environment_prod_environment"
     },
     {
       "relation": "contains",
@@ -3825,9 +3825,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L1",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "claude_md",
-      "target": "angular_inc_claude_claude_md",
-      "confidence_score": 1.0
+      "target": "angular_inc_claude_claude_md"
     },
     {
       "relation": "contains",
@@ -3835,9 +3835,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L5",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "angular_inc_claude_claude_md",
-      "target": "angular_inc_claude_stack",
-      "confidence_score": 1.0
+      "target": "angular_inc_claude_stack"
     },
     {
       "relation": "contains",
@@ -3845,9 +3845,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L13",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "angular_inc_claude_claude_md",
-      "target": "angular_inc_claude_commands",
-      "confidence_score": 1.0
+      "target": "angular_inc_claude_commands"
     },
     {
       "relation": "contains",
@@ -3855,9 +3855,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L19",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "angular_inc_claude_claude_md",
-      "target": "angular_inc_claude_project_layout",
-      "confidence_score": 1.0
+      "target": "angular_inc_claude_project_layout"
     },
     {
       "relation": "contains",
@@ -3865,9 +3865,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L39",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "angular_inc_claude_claude_md",
-      "target": "angular_inc_claude_angular_rules",
-      "confidence_score": 1.0
+      "target": "angular_inc_claude_angular_rules"
     },
     {
       "relation": "contains",
@@ -3875,9 +3875,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L52",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "angular_inc_claude_claude_md",
-      "target": "angular_inc_claude_state_management_ngrx_signalstore",
-      "confidence_score": 1.0
+      "target": "angular_inc_claude_state_management_ngrx_signalstore"
     },
     {
       "relation": "contains",
@@ -3885,9 +3885,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L76",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "angular_inc_claude_claude_md",
-      "target": "angular_inc_claude_mock_service_pattern",
-      "confidence_score": 1.0
+      "target": "angular_inc_claude_mock_service_pattern"
     },
     {
       "relation": "contains",
@@ -3895,9 +3895,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L84",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "angular_inc_claude_claude_md",
-      "target": "angular_inc_claude_bootstrap_5_scss",
-      "confidence_score": 1.0
+      "target": "angular_inc_claude_bootstrap_5_scss"
     },
     {
       "relation": "contains",
@@ -3905,9 +3905,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L90",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "angular_inc_claude_claude_md",
-      "target": "angular_inc_claude_file_naming",
-      "confidence_score": 1.0
+      "target": "angular_inc_claude_file_naming"
     },
     {
       "relation": "contains",
@@ -3915,9 +3915,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L97",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "angular_inc_claude_claude_md",
-      "target": "angular_inc_claude_git",
-      "confidence_score": 1.0
+      "target": "angular_inc_claude_git"
     },
     {
       "relation": "contains",
@@ -3925,9 +3925,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L102",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "angular_inc_claude_claude_md",
-      "target": "angular_inc_claude_hard_rules",
-      "confidence_score": 1.0
+      "target": "angular_inc_claude_hard_rules"
     },
     {
       "relation": "contains",
@@ -3935,9 +3935,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L21",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "angular_inc_claude_project_layout",
-      "target": "angular_inc_claude_codeblock_1",
-      "confidence_score": 1.0
+      "target": "angular_inc_claude_codeblock_1"
     },
     {
       "relation": "contains",
@@ -3945,9 +3945,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L56",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "angular_inc_claude_state_management_ngrx_signalstore",
-      "target": "angular_inc_claude_codeblock_2",
-      "confidence_score": 1.0
+      "target": "angular_inc_claude_codeblock_2"
     },
     {
       "relation": "contains",
@@ -3955,9 +3955,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L79",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "angular_inc_claude_mock_service_pattern",
-      "target": "angular_inc_claude_codeblock_3",
-      "confidence_score": 1.0
+      "target": "angular_inc_claude_codeblock_3"
     },
     {
       "relation": "contains",
@@ -3965,9 +3965,9 @@
       "source_file": "README.md",
       "source_location": "L1",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "readme_md",
-      "target": "angular_inc_readme_angularinc",
-      "confidence_score": 1.0
+      "target": "angular_inc_readme_angularinc"
     },
     {
       "relation": "contains",
@@ -3975,9 +3975,9 @@
       "source_file": "README.md",
       "source_location": "L5",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "angular_inc_readme_angularinc",
-      "target": "angular_inc_readme_development_server",
-      "confidence_score": 1.0
+      "target": "angular_inc_readme_development_server"
     },
     {
       "relation": "contains",
@@ -3985,9 +3985,9 @@
       "source_file": "README.md",
       "source_location": "L15",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "angular_inc_readme_angularinc",
-      "target": "angular_inc_readme_code_scaffolding",
-      "confidence_score": 1.0
+      "target": "angular_inc_readme_code_scaffolding"
     },
     {
       "relation": "contains",
@@ -3995,9 +3995,9 @@
       "source_file": "README.md",
       "source_location": "L29",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "angular_inc_readme_angularinc",
-      "target": "angular_inc_readme_building",
-      "confidence_score": 1.0
+      "target": "angular_inc_readme_building"
     },
     {
       "relation": "contains",
@@ -4005,9 +4005,9 @@
       "source_file": "README.md",
       "source_location": "L39",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "angular_inc_readme_angularinc",
-      "target": "angular_inc_readme_running_unit_tests",
-      "confidence_score": 1.0
+      "target": "angular_inc_readme_running_unit_tests"
     },
     {
       "relation": "contains",
@@ -4015,9 +4015,9 @@
       "source_file": "README.md",
       "source_location": "L47",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "angular_inc_readme_angularinc",
-      "target": "angular_inc_readme_running_end_to_end_tests",
-      "confidence_score": 1.0
+      "target": "angular_inc_readme_running_end_to_end_tests"
     },
     {
       "relation": "contains",
@@ -4025,9 +4025,9 @@
       "source_file": "README.md",
       "source_location": "L57",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "angular_inc_readme_angularinc",
-      "target": "angular_inc_readme_additional_resources",
-      "confidence_score": 1.0
+      "target": "angular_inc_readme_additional_resources"
     },
     {
       "relation": "contains",
@@ -4035,9 +4035,9 @@
       "source_file": "README.md",
       "source_location": "L9",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "angular_inc_readme_development_server",
-      "target": "angular_inc_readme_codeblock_1",
-      "confidence_score": 1.0
+      "target": "angular_inc_readme_codeblock_1"
     },
     {
       "relation": "contains",
@@ -4045,9 +4045,9 @@
       "source_file": "README.md",
       "source_location": "L19",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "angular_inc_readme_code_scaffolding",
-      "target": "angular_inc_readme_codeblock_2",
-      "confidence_score": 1.0
+      "target": "angular_inc_readme_codeblock_2"
     },
     {
       "relation": "contains",
@@ -4055,9 +4055,9 @@
       "source_file": "README.md",
       "source_location": "L25",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "angular_inc_readme_code_scaffolding",
-      "target": "angular_inc_readme_codeblock_3",
-      "confidence_score": 1.0
+      "target": "angular_inc_readme_codeblock_3"
     },
     {
       "relation": "contains",
@@ -4065,9 +4065,9 @@
       "source_file": "README.md",
       "source_location": "L33",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "angular_inc_readme_building",
-      "target": "angular_inc_readme_codeblock_4",
-      "confidence_score": 1.0
+      "target": "angular_inc_readme_codeblock_4"
     },
     {
       "relation": "contains",
@@ -4075,9 +4075,9 @@
       "source_file": "README.md",
       "source_location": "L43",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "angular_inc_readme_running_unit_tests",
-      "target": "angular_inc_readme_codeblock_5",
-      "confidence_score": 1.0
+      "target": "angular_inc_readme_codeblock_5"
     },
     {
       "relation": "contains",
@@ -4085,11 +4085,11 @@
       "source_file": "README.md",
       "source_location": "L51",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "angular_inc_readme_running_end_to_end_tests",
-      "target": "angular_inc_readme_codeblock_6",
-      "confidence_score": 1.0
+      "target": "angular_inc_readme_codeblock_6"
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "3a9943f2bed5e4fe075f986bd033a1630416c858"
+  "built_at_commit": "2db628da72990d5f62eb6ea96a68be8e72e0ced9"
 }
