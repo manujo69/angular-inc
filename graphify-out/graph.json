@@ -1,0 +1,4095 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "sorter.js",
+      "file_type": "code",
+      "source_file": "coverage/angular-inc/sorter.js",
+      "source_location": "L1",
+      "id": "coverage_angular_inc_sorter_js",
+      "community": 4,
+      "norm_label": "sorter.js"
+    },
+    {
+      "label": "getTable()",
+      "file_type": "code",
+      "source_file": "coverage/angular-inc/sorter.js",
+      "source_location": "L11",
+      "id": "angular_inc_sorter_gettable",
+      "community": 4,
+      "norm_label": "gettable()"
+    },
+    {
+      "label": "getTableHeader()",
+      "file_type": "code",
+      "source_file": "coverage/angular-inc/sorter.js",
+      "source_location": "L15",
+      "id": "angular_inc_sorter_gettableheader",
+      "community": 4,
+      "norm_label": "gettableheader()"
+    },
+    {
+      "label": "getTableBody()",
+      "file_type": "code",
+      "source_file": "coverage/angular-inc/sorter.js",
+      "source_location": "L19",
+      "id": "angular_inc_sorter_gettablebody",
+      "community": 4,
+      "norm_label": "gettablebody()"
+    },
+    {
+      "label": "getNthColumn()",
+      "file_type": "code",
+      "source_file": "coverage/angular-inc/sorter.js",
+      "source_location": "L23",
+      "id": "angular_inc_sorter_getnthcolumn",
+      "community": 4,
+      "norm_label": "getnthcolumn()"
+    },
+    {
+      "label": "onFilterInput()",
+      "file_type": "code",
+      "source_file": "coverage/angular-inc/sorter.js",
+      "source_location": "L27",
+      "id": "angular_inc_sorter_onfilterinput",
+      "community": 4,
+      "norm_label": "onfilterinput()"
+    },
+    {
+      "label": "addSearchBox()",
+      "file_type": "code",
+      "source_file": "coverage/angular-inc/sorter.js",
+      "source_location": "L59",
+      "id": "angular_inc_sorter_addsearchbox",
+      "community": 4,
+      "norm_label": "addsearchbox()"
+    },
+    {
+      "label": "loadColumns()",
+      "file_type": "code",
+      "source_file": "coverage/angular-inc/sorter.js",
+      "source_location": "L67",
+      "id": "angular_inc_sorter_loadcolumns",
+      "community": 4,
+      "norm_label": "loadcolumns()"
+    },
+    {
+      "label": "loadRowData()",
+      "file_type": "code",
+      "source_file": "coverage/angular-inc/sorter.js",
+      "source_location": "L92",
+      "id": "angular_inc_sorter_loadrowdata",
+      "community": 4,
+      "norm_label": "loadrowdata()"
+    },
+    {
+      "label": "loadData()",
+      "file_type": "code",
+      "source_file": "coverage/angular-inc/sorter.js",
+      "source_location": "L111",
+      "id": "angular_inc_sorter_loaddata",
+      "community": 4,
+      "norm_label": "loaddata()"
+    },
+    {
+      "label": "sortByIndex()",
+      "file_type": "code",
+      "source_file": "coverage/angular-inc/sorter.js",
+      "source_location": "L120",
+      "id": "angular_inc_sorter_sortbyindex",
+      "community": 4,
+      "norm_label": "sortbyindex()"
+    },
+    {
+      "label": "removeSortIndicators()",
+      "file_type": "code",
+      "source_file": "coverage/angular-inc/sorter.js",
+      "source_location": "L151",
+      "id": "angular_inc_sorter_removesortindicators",
+      "community": 4,
+      "norm_label": "removesortindicators()"
+    },
+    {
+      "label": "addSortIndicators()",
+      "file_type": "code",
+      "source_file": "coverage/angular-inc/sorter.js",
+      "source_location": "L159",
+      "id": "angular_inc_sorter_addsortindicators",
+      "community": 4,
+      "norm_label": "addsortindicators()"
+    },
+    {
+      "label": "enableUI()",
+      "file_type": "code",
+      "source_file": "coverage/angular-inc/sorter.js",
+      "source_location": "L165",
+      "id": "angular_inc_sorter_enableui",
+      "community": 4,
+      "norm_label": "enableui()"
+    },
+    {
+      "label": "block-navigation.js",
+      "file_type": "code",
+      "source_file": "coverage/angular-inc/block-navigation.js",
+      "source_location": "L1",
+      "id": "coverage_angular_inc_block_navigation_js",
+      "community": 10,
+      "norm_label": "block-navigation.js"
+    },
+    {
+      "label": "toggleClass()",
+      "file_type": "code",
+      "source_file": "coverage/angular-inc/block-navigation.js",
+      "source_location": "L24",
+      "id": "angular_inc_block_navigation_toggleclass",
+      "community": 10,
+      "norm_label": "toggleclass()"
+    },
+    {
+      "label": "makeCurrent()",
+      "file_type": "code",
+      "source_file": "coverage/angular-inc/block-navigation.js",
+      "source_location": "L31",
+      "id": "angular_inc_block_navigation_makecurrent",
+      "community": 10,
+      "norm_label": "makecurrent()"
+    },
+    {
+      "label": "goToPrevious()",
+      "file_type": "code",
+      "source_file": "coverage/angular-inc/block-navigation.js",
+      "source_location": "L41",
+      "id": "angular_inc_block_navigation_gotoprevious",
+      "community": 10,
+      "norm_label": "gotoprevious()"
+    },
+    {
+      "label": "goToNext()",
+      "file_type": "code",
+      "source_file": "coverage/angular-inc/block-navigation.js",
+      "source_location": "L52",
+      "id": "angular_inc_block_navigation_gotonext",
+      "community": 10,
+      "norm_label": "gotonext()"
+    },
+    {
+      "label": "prettify.js",
+      "file_type": "code",
+      "source_file": "coverage/angular-inc/prettify.js",
+      "source_location": "L1",
+      "id": "coverage_angular_inc_prettify_js",
+      "community": 8,
+      "norm_label": "prettify.js"
+    },
+    {
+      "label": "k()",
+      "file_type": "code",
+      "source_file": "coverage/angular-inc/prettify.js",
+      "source_location": "L2",
+      "id": "angular_inc_prettify_k",
+      "community": 8,
+      "norm_label": "k()"
+    },
+    {
+      "label": "a()",
+      "file_type": "code",
+      "source_file": "coverage/angular-inc/prettify.js",
+      "source_location": "L2",
+      "id": "angular_inc_prettify_a",
+      "community": 8,
+      "norm_label": "a()"
+    },
+    {
+      "label": "B()",
+      "file_type": "code",
+      "source_file": "coverage/angular-inc/prettify.js",
+      "source_location": "L2",
+      "id": "angular_inc_prettify_b",
+      "community": 8,
+      "norm_label": "b()"
+    },
+    {
+      "label": "o()",
+      "file_type": "code",
+      "source_file": "coverage/angular-inc/prettify.js",
+      "source_location": "L2",
+      "id": "angular_inc_prettify_o",
+      "community": 8,
+      "norm_label": "o()"
+    },
+    {
+      "label": "g()",
+      "file_type": "code",
+      "source_file": "coverage/angular-inc/prettify.js",
+      "source_location": "L2",
+      "id": "angular_inc_prettify_g",
+      "community": 8,
+      "norm_label": "g()"
+    },
+    {
+      "label": "i()",
+      "file_type": "code",
+      "source_file": "coverage/angular-inc/prettify.js",
+      "source_location": "L2",
+      "id": "angular_inc_prettify_i",
+      "community": 8,
+      "norm_label": "i()"
+    },
+    {
+      "label": "Q()",
+      "file_type": "code",
+      "source_file": "coverage/angular-inc/prettify.js",
+      "source_location": "L2",
+      "id": "angular_inc_prettify_q",
+      "community": 8,
+      "norm_label": "q()"
+    },
+    {
+      "label": "D()",
+      "file_type": "code",
+      "source_file": "coverage/angular-inc/prettify.js",
+      "source_location": "L2",
+      "id": "angular_inc_prettify_d",
+      "community": 8,
+      "norm_label": "d()"
+    },
+    {
+      "label": "c()",
+      "file_type": "code",
+      "source_file": "coverage/angular-inc/prettify.js",
+      "source_location": "L2",
+      "id": "angular_inc_prettify_c",
+      "community": 8,
+      "norm_label": "c()"
+    },
+    {
+      "label": "y()",
+      "file_type": "code",
+      "source_file": "coverage/angular-inc/prettify.js",
+      "source_location": "L2",
+      "id": "angular_inc_prettify_y",
+      "community": 8,
+      "norm_label": "y()"
+    },
+    {
+      "label": "sorter.js",
+      "file_type": "code",
+      "source_file": "coverage/angular-inc/lcov-report/sorter.js",
+      "source_location": "L1",
+      "id": "coverage_angular_inc_lcov_report_sorter_js",
+      "community": 5,
+      "norm_label": "sorter.js"
+    },
+    {
+      "label": "getTable()",
+      "file_type": "code",
+      "source_file": "coverage/angular-inc/lcov-report/sorter.js",
+      "source_location": "L11",
+      "id": "lcov_report_sorter_gettable",
+      "community": 5,
+      "norm_label": "gettable()"
+    },
+    {
+      "label": "getTableHeader()",
+      "file_type": "code",
+      "source_file": "coverage/angular-inc/lcov-report/sorter.js",
+      "source_location": "L15",
+      "id": "lcov_report_sorter_gettableheader",
+      "community": 5,
+      "norm_label": "gettableheader()"
+    },
+    {
+      "label": "getTableBody()",
+      "file_type": "code",
+      "source_file": "coverage/angular-inc/lcov-report/sorter.js",
+      "source_location": "L19",
+      "id": "lcov_report_sorter_gettablebody",
+      "community": 5,
+      "norm_label": "gettablebody()"
+    },
+    {
+      "label": "getNthColumn()",
+      "file_type": "code",
+      "source_file": "coverage/angular-inc/lcov-report/sorter.js",
+      "source_location": "L23",
+      "id": "lcov_report_sorter_getnthcolumn",
+      "community": 5,
+      "norm_label": "getnthcolumn()"
+    },
+    {
+      "label": "onFilterInput()",
+      "file_type": "code",
+      "source_file": "coverage/angular-inc/lcov-report/sorter.js",
+      "source_location": "L27",
+      "id": "lcov_report_sorter_onfilterinput",
+      "community": 5,
+      "norm_label": "onfilterinput()"
+    },
+    {
+      "label": "addSearchBox()",
+      "file_type": "code",
+      "source_file": "coverage/angular-inc/lcov-report/sorter.js",
+      "source_location": "L59",
+      "id": "lcov_report_sorter_addsearchbox",
+      "community": 5,
+      "norm_label": "addsearchbox()"
+    },
+    {
+      "label": "loadColumns()",
+      "file_type": "code",
+      "source_file": "coverage/angular-inc/lcov-report/sorter.js",
+      "source_location": "L67",
+      "id": "lcov_report_sorter_loadcolumns",
+      "community": 5,
+      "norm_label": "loadcolumns()"
+    },
+    {
+      "label": "loadRowData()",
+      "file_type": "code",
+      "source_file": "coverage/angular-inc/lcov-report/sorter.js",
+      "source_location": "L92",
+      "id": "lcov_report_sorter_loadrowdata",
+      "community": 5,
+      "norm_label": "loadrowdata()"
+    },
+    {
+      "label": "loadData()",
+      "file_type": "code",
+      "source_file": "coverage/angular-inc/lcov-report/sorter.js",
+      "source_location": "L111",
+      "id": "lcov_report_sorter_loaddata",
+      "community": 5,
+      "norm_label": "loaddata()"
+    },
+    {
+      "label": "sortByIndex()",
+      "file_type": "code",
+      "source_file": "coverage/angular-inc/lcov-report/sorter.js",
+      "source_location": "L120",
+      "id": "lcov_report_sorter_sortbyindex",
+      "community": 5,
+      "norm_label": "sortbyindex()"
+    },
+    {
+      "label": "removeSortIndicators()",
+      "file_type": "code",
+      "source_file": "coverage/angular-inc/lcov-report/sorter.js",
+      "source_location": "L151",
+      "id": "lcov_report_sorter_removesortindicators",
+      "community": 5,
+      "norm_label": "removesortindicators()"
+    },
+    {
+      "label": "addSortIndicators()",
+      "file_type": "code",
+      "source_file": "coverage/angular-inc/lcov-report/sorter.js",
+      "source_location": "L159",
+      "id": "lcov_report_sorter_addsortindicators",
+      "community": 5,
+      "norm_label": "addsortindicators()"
+    },
+    {
+      "label": "enableUI()",
+      "file_type": "code",
+      "source_file": "coverage/angular-inc/lcov-report/sorter.js",
+      "source_location": "L165",
+      "id": "lcov_report_sorter_enableui",
+      "community": 5,
+      "norm_label": "enableui()"
+    },
+    {
+      "label": "block-navigation.js",
+      "file_type": "code",
+      "source_file": "coverage/angular-inc/lcov-report/block-navigation.js",
+      "source_location": "L1",
+      "id": "coverage_angular_inc_lcov_report_block_navigation_js",
+      "community": 11,
+      "norm_label": "block-navigation.js"
+    },
+    {
+      "label": "toggleClass()",
+      "file_type": "code",
+      "source_file": "coverage/angular-inc/lcov-report/block-navigation.js",
+      "source_location": "L24",
+      "id": "lcov_report_block_navigation_toggleclass",
+      "community": 11,
+      "norm_label": "toggleclass()"
+    },
+    {
+      "label": "makeCurrent()",
+      "file_type": "code",
+      "source_file": "coverage/angular-inc/lcov-report/block-navigation.js",
+      "source_location": "L31",
+      "id": "lcov_report_block_navigation_makecurrent",
+      "community": 11,
+      "norm_label": "makecurrent()"
+    },
+    {
+      "label": "goToPrevious()",
+      "file_type": "code",
+      "source_file": "coverage/angular-inc/lcov-report/block-navigation.js",
+      "source_location": "L41",
+      "id": "lcov_report_block_navigation_gotoprevious",
+      "community": 11,
+      "norm_label": "gotoprevious()"
+    },
+    {
+      "label": "goToNext()",
+      "file_type": "code",
+      "source_file": "coverage/angular-inc/lcov-report/block-navigation.js",
+      "source_location": "L52",
+      "id": "lcov_report_block_navigation_gotonext",
+      "community": 11,
+      "norm_label": "gotonext()"
+    },
+    {
+      "label": "prettify.js",
+      "file_type": "code",
+      "source_file": "coverage/angular-inc/lcov-report/prettify.js",
+      "source_location": "L1",
+      "id": "coverage_angular_inc_lcov_report_prettify_js",
+      "community": 9,
+      "norm_label": "prettify.js"
+    },
+    {
+      "label": "k()",
+      "file_type": "code",
+      "source_file": "coverage/angular-inc/lcov-report/prettify.js",
+      "source_location": "L2",
+      "id": "lcov_report_prettify_k",
+      "community": 9,
+      "norm_label": "k()"
+    },
+    {
+      "label": "a()",
+      "file_type": "code",
+      "source_file": "coverage/angular-inc/lcov-report/prettify.js",
+      "source_location": "L2",
+      "id": "lcov_report_prettify_a",
+      "community": 9,
+      "norm_label": "a()"
+    },
+    {
+      "label": "B()",
+      "file_type": "code",
+      "source_file": "coverage/angular-inc/lcov-report/prettify.js",
+      "source_location": "L2",
+      "id": "lcov_report_prettify_b",
+      "community": 9,
+      "norm_label": "b()"
+    },
+    {
+      "label": "o()",
+      "file_type": "code",
+      "source_file": "coverage/angular-inc/lcov-report/prettify.js",
+      "source_location": "L2",
+      "id": "lcov_report_prettify_o",
+      "community": 9,
+      "norm_label": "o()"
+    },
+    {
+      "label": "g()",
+      "file_type": "code",
+      "source_file": "coverage/angular-inc/lcov-report/prettify.js",
+      "source_location": "L2",
+      "id": "lcov_report_prettify_g",
+      "community": 9,
+      "norm_label": "g()"
+    },
+    {
+      "label": "i()",
+      "file_type": "code",
+      "source_file": "coverage/angular-inc/lcov-report/prettify.js",
+      "source_location": "L2",
+      "id": "lcov_report_prettify_i",
+      "community": 9,
+      "norm_label": "i()"
+    },
+    {
+      "label": "Q()",
+      "file_type": "code",
+      "source_file": "coverage/angular-inc/lcov-report/prettify.js",
+      "source_location": "L2",
+      "id": "lcov_report_prettify_q",
+      "community": 9,
+      "norm_label": "q()"
+    },
+    {
+      "label": "D()",
+      "file_type": "code",
+      "source_file": "coverage/angular-inc/lcov-report/prettify.js",
+      "source_location": "L2",
+      "id": "lcov_report_prettify_d",
+      "community": 9,
+      "norm_label": "d()"
+    },
+    {
+      "label": "c()",
+      "file_type": "code",
+      "source_file": "coverage/angular-inc/lcov-report/prettify.js",
+      "source_location": "L2",
+      "id": "lcov_report_prettify_c",
+      "community": 9,
+      "norm_label": "c()"
+    },
+    {
+      "label": "y()",
+      "file_type": "code",
+      "source_file": "coverage/angular-inc/lcov-report/prettify.js",
+      "source_location": "L2",
+      "id": "lcov_report_prettify_y",
+      "community": 9,
+      "norm_label": "y()"
+    },
+    {
+      "label": "main.ts",
+      "file_type": "code",
+      "source_file": "src/main.ts",
+      "source_location": "L1",
+      "id": "src_main_ts",
+      "community": 1,
+      "norm_label": "main.ts"
+    },
+    {
+      "label": "app.routes.ts",
+      "file_type": "code",
+      "source_file": "src/app/app.routes.ts",
+      "source_location": "L1",
+      "id": "src_app_app_routes_ts",
+      "community": 1,
+      "norm_label": "app.routes.ts"
+    },
+    {
+      "label": "routes",
+      "file_type": "code",
+      "source_file": "src/app/app.routes.ts",
+      "source_location": "L3",
+      "id": "app_app_routes_routes",
+      "community": 1,
+      "norm_label": "routes"
+    },
+    {
+      "label": "app.ts",
+      "file_type": "code",
+      "source_file": "src/app/app.ts",
+      "source_location": "L1",
+      "id": "src_app_app_ts",
+      "community": 1,
+      "norm_label": "app.ts"
+    },
+    {
+      "label": "App",
+      "file_type": "code",
+      "source_file": "src/app/app.ts",
+      "source_location": "L11",
+      "id": "app_app_app",
+      "community": 1,
+      "norm_label": "app"
+    },
+    {
+      "label": "app.config.ts",
+      "file_type": "code",
+      "source_file": "src/app/app.config.ts",
+      "source_location": "L1",
+      "id": "src_app_app_config_ts",
+      "community": 1,
+      "norm_label": "app.config.ts"
+    },
+    {
+      "label": "appConfig",
+      "file_type": "code",
+      "source_file": "src/app/app.config.ts",
+      "source_location": "L13",
+      "id": "app_app_config_appconfig",
+      "community": 1,
+      "norm_label": "appconfig"
+    },
+    {
+      "label": "app.spec.ts",
+      "file_type": "code",
+      "source_file": "src/app/app.spec.ts",
+      "source_location": "L1",
+      "id": "src_app_app_spec_ts",
+      "community": 1,
+      "norm_label": "app.spec.ts"
+    },
+    {
+      "label": "fixture",
+      "file_type": "code",
+      "source_file": "src/app/app.spec.ts",
+      "source_location": "L14",
+      "id": "app_app_spec_fixture",
+      "community": 1,
+      "norm_label": "fixture"
+    },
+    {
+      "label": "el",
+      "file_type": "code",
+      "source_file": "src/app/app.spec.ts",
+      "source_location": "L21",
+      "id": "app_app_spec_el",
+      "community": 1,
+      "norm_label": "el"
+    },
+    {
+      "label": "data-table.component.ts",
+      "file_type": "code",
+      "source_file": "src/app/shared/components/data-table/data-table.component.ts",
+      "source_location": "L1",
+      "id": "src_app_shared_components_data_table_data_table_component_ts",
+      "community": 2,
+      "norm_label": "data-table.component.ts"
+    },
+    {
+      "label": "TableColumn",
+      "file_type": "code",
+      "source_file": "src/app/shared/components/data-table/data-table.component.ts",
+      "source_location": "L10",
+      "id": "data_table_data_table_component_tablecolumn",
+      "community": 2,
+      "norm_label": "tablecolumn"
+    },
+    {
+      "label": "DataTableComponent",
+      "file_type": "code",
+      "source_file": "src/app/shared/components/data-table/data-table.component.ts",
+      "source_location": "L63",
+      "id": "data_table_data_table_component_datatablecomponent",
+      "community": 2,
+      "norm_label": "datatablecomponent"
+    },
+    {
+      "label": "key",
+      "file_type": "code",
+      "source_file": "src/app/shared/components/data-table/data-table.component.ts",
+      "source_location": "L72",
+      "id": "data_table_data_table_component_key",
+      "community": 2,
+      "norm_label": "key"
+    },
+    {
+      "label": "cmp",
+      "file_type": "code",
+      "source_file": "src/app/shared/components/data-table/data-table.component.ts",
+      "source_location": "L77",
+      "id": "data_table_data_table_component_cmp",
+      "community": 2,
+      "norm_label": "cmp"
+    },
+    {
+      "label": ".toggleSort()",
+      "file_type": "code",
+      "source_file": "src/app/shared/components/data-table/data-table.component.ts",
+      "source_location": "L82",
+      "id": "data_table_data_table_component_datatablecomponent_togglesort",
+      "community": 2,
+      "norm_label": ".togglesort()"
+    },
+    {
+      "label": "data-table.component.spec.ts",
+      "file_type": "code",
+      "source_file": "src/app/shared/components/data-table/data-table.component.spec.ts",
+      "source_location": "L1",
+      "id": "src_app_shared_components_data_table_data_table_component_spec_ts",
+      "community": 2,
+      "norm_label": "data-table.component.spec.ts"
+    },
+    {
+      "label": "columns",
+      "file_type": "code",
+      "source_file": "src/app/shared/components/data-table/data-table.component.spec.ts",
+      "source_location": "L4",
+      "id": "data_table_data_table_component_spec_columns",
+      "community": 2,
+      "norm_label": "columns"
+    },
+    {
+      "label": "data",
+      "file_type": "code",
+      "source_file": "src/app/shared/components/data-table/data-table.component.spec.ts",
+      "source_location": "L9",
+      "id": "data_table_data_table_component_spec_data",
+      "community": 2,
+      "norm_label": "data"
+    },
+    {
+      "label": "setup()",
+      "file_type": "code",
+      "source_file": "src/app/shared/components/data-table/data-table.component.spec.ts",
+      "source_location": "L22",
+      "id": "data_table_data_table_component_spec_setup",
+      "community": 2,
+      "norm_label": "setup()"
+    },
+    {
+      "label": "ths",
+      "file_type": "code",
+      "source_file": "src/app/shared/components/data-table/data-table.component.spec.ts",
+      "source_location": "L35",
+      "id": "data_table_data_table_component_spec_ths",
+      "community": 2,
+      "norm_label": "ths"
+    },
+    {
+      "label": "rows",
+      "file_type": "code",
+      "source_file": "src/app/shared/components/data-table/data-table.component.spec.ts",
+      "source_location": "L41",
+      "id": "data_table_data_table_component_spec_rows",
+      "community": 2,
+      "norm_label": "rows"
+    },
+    {
+      "label": "cells",
+      "file_type": "code",
+      "source_file": "src/app/shared/components/data-table/data-table.component.spec.ts",
+      "source_location": "L46",
+      "id": "data_table_data_table_component_spec_cells",
+      "community": 2,
+      "norm_label": "cells"
+    },
+    {
+      "label": "el",
+      "file_type": "code",
+      "source_file": "src/app/shared/components/data-table/data-table.component.spec.ts",
+      "source_location": "L52",
+      "id": "data_table_data_table_component_spec_el",
+      "community": 2,
+      "norm_label": "el"
+    },
+    {
+      "label": "fixture",
+      "file_type": "code",
+      "source_file": "src/app/shared/components/data-table/data-table.component.spec.ts",
+      "source_location": "L57",
+      "id": "data_table_data_table_component_spec_fixture",
+      "community": 2,
+      "norm_label": "fixture"
+    },
+    {
+      "label": "firstCell",
+      "file_type": "code",
+      "source_file": "src/app/shared/components/data-table/data-table.component.spec.ts",
+      "source_location": "L60",
+      "id": "data_table_data_table_component_spec_firstcell",
+      "community": 2,
+      "norm_label": "firstcell"
+    },
+    {
+      "label": "nameHeader",
+      "file_type": "code",
+      "source_file": "src/app/shared/components/data-table/data-table.component.spec.ts",
+      "source_location": "L66",
+      "id": "data_table_data_table_component_spec_nameheader",
+      "community": 2,
+      "norm_label": "nameheader"
+    },
+    {
+      "label": "emitted",
+      "file_type": "code",
+      "source_file": "src/app/shared/components/data-table/data-table.component.spec.ts",
+      "source_location": "L84",
+      "id": "data_table_data_table_component_spec_emitted",
+      "community": 2,
+      "norm_label": "emitted"
+    },
+    {
+      "label": "users.routes.ts",
+      "file_type": "code",
+      "source_file": "src/app/features/users/users.routes.ts",
+      "source_location": "L1",
+      "id": "src_app_features_users_users_routes_ts",
+      "community": 12,
+      "norm_label": "users.routes.ts"
+    },
+    {
+      "label": "usersRoutes",
+      "file_type": "code",
+      "source_file": "src/app/features/users/users.routes.ts",
+      "source_location": "L3",
+      "id": "users_users_routes_usersroutes",
+      "community": 12,
+      "norm_label": "usersroutes"
+    },
+    {
+      "label": "user-api.service.ts",
+      "file_type": "code",
+      "source_file": "src/app/features/users/services/user-api.service.ts",
+      "source_location": "L1",
+      "id": "src_app_features_users_services_user_api_service_ts",
+      "community": 0,
+      "norm_label": "user-api.service.ts"
+    },
+    {
+      "label": "UserApiService",
+      "file_type": "code",
+      "source_file": "src/app/features/users/services/user-api.service.ts",
+      "source_location": "L7",
+      "id": "services_user_api_service_userapiservice",
+      "community": 0,
+      "norm_label": "userapiservice"
+    },
+    {
+      "label": ".getAll()",
+      "file_type": "code",
+      "source_file": "src/app/features/users/services/user-api.service.ts",
+      "source_location": "L11",
+      "id": "services_user_api_service_userapiservice_getall",
+      "community": 0,
+      "norm_label": ".getall()"
+    },
+    {
+      "label": ".getById()",
+      "file_type": "code",
+      "source_file": "src/app/features/users/services/user-api.service.ts",
+      "source_location": "L15",
+      "id": "services_user_api_service_userapiservice_getbyid",
+      "community": 0,
+      "norm_label": ".getbyid()"
+    },
+    {
+      "label": ".create()",
+      "file_type": "code",
+      "source_file": "src/app/features/users/services/user-api.service.ts",
+      "source_location": "L19",
+      "id": "services_user_api_service_userapiservice_create",
+      "community": 0,
+      "norm_label": ".create()"
+    },
+    {
+      "label": ".update()",
+      "file_type": "code",
+      "source_file": "src/app/features/users/services/user-api.service.ts",
+      "source_location": "L23",
+      "id": "services_user_api_service_userapiservice_update",
+      "community": 0,
+      "norm_label": ".update()"
+    },
+    {
+      "label": ".delete()",
+      "file_type": "code",
+      "source_file": "src/app/features/users/services/user-api.service.ts",
+      "source_location": "L27",
+      "id": "services_user_api_service_userapiservice_delete",
+      "community": 0,
+      "norm_label": ".delete()"
+    },
+    {
+      "label": "mock-user-api.service.ts",
+      "file_type": "code",
+      "source_file": "src/app/features/users/services/mock-user-api.service.ts",
+      "source_location": "L1",
+      "id": "src_app_features_users_services_mock_user_api_service_ts",
+      "community": 0,
+      "norm_label": "mock-user-api.service.ts"
+    },
+    {
+      "label": "MOCK_USERS",
+      "file_type": "code",
+      "source_file": "src/app/features/users/services/mock-user-api.service.ts",
+      "source_location": "L7",
+      "id": "services_mock_user_api_service_mock_users",
+      "community": 0,
+      "norm_label": "mock_users"
+    },
+    {
+      "label": "MockUserApiService",
+      "file_type": "code",
+      "source_file": "src/app/features/users/services/mock-user-api.service.ts",
+      "source_location": "L51",
+      "id": "services_mock_user_api_service_mockuserapiservice",
+      "community": 1,
+      "norm_label": "mockuserapiservice"
+    },
+    {
+      "label": ".getAll()",
+      "file_type": "code",
+      "source_file": "src/app/features/users/services/mock-user-api.service.ts",
+      "source_location": "L54",
+      "id": "services_mock_user_api_service_mockuserapiservice_getall",
+      "community": 1,
+      "norm_label": ".getall()"
+    },
+    {
+      "label": ".getById()",
+      "file_type": "code",
+      "source_file": "src/app/features/users/services/mock-user-api.service.ts",
+      "source_location": "L58",
+      "id": "services_mock_user_api_service_mockuserapiservice_getbyid",
+      "community": 1,
+      "norm_label": ".getbyid()"
+    },
+    {
+      "label": ".create()",
+      "file_type": "code",
+      "source_file": "src/app/features/users/services/mock-user-api.service.ts",
+      "source_location": "L65",
+      "id": "services_mock_user_api_service_mockuserapiservice_create",
+      "community": 1,
+      "norm_label": ".create()"
+    },
+    {
+      "label": ".update()",
+      "file_type": "code",
+      "source_file": "src/app/features/users/services/mock-user-api.service.ts",
+      "source_location": "L74",
+      "id": "services_mock_user_api_service_mockuserapiservice_update",
+      "community": 1,
+      "norm_label": ".update()"
+    },
+    {
+      "label": ".delete()",
+      "file_type": "code",
+      "source_file": "src/app/features/users/services/mock-user-api.service.ts",
+      "source_location": "L80",
+      "id": "services_mock_user_api_service_mockuserapiservice_delete",
+      "community": 1,
+      "norm_label": ".delete()"
+    },
+    {
+      "label": "users.store.ts",
+      "file_type": "code",
+      "source_file": "src/app/features/users/state/users.store.ts",
+      "source_location": "L1",
+      "id": "src_app_features_users_state_users_store_ts",
+      "community": 0,
+      "norm_label": "users.store.ts"
+    },
+    {
+      "label": "UsersState",
+      "file_type": "code",
+      "source_file": "src/app/features/users/state/users.store.ts",
+      "source_location": "L15",
+      "id": "state_users_store_usersstate",
+      "community": 0,
+      "norm_label": "usersstate"
+    },
+    {
+      "label": "initialState",
+      "file_type": "code",
+      "source_file": "src/app/features/users/state/users.store.ts",
+      "source_location": "L22",
+      "id": "state_users_store_initialstate",
+      "community": 0,
+      "norm_label": "initialstate"
+    },
+    {
+      "label": "UsersStore",
+      "file_type": "code",
+      "source_file": "src/app/features/users/state/users.store.ts",
+      "source_location": "L29",
+      "id": "state_users_store_usersstore",
+      "community": 0,
+      "norm_label": "usersstore"
+    },
+    {
+      "label": "users.store.spec.ts",
+      "file_type": "code",
+      "source_file": "src/app/features/users/state/users.store.spec.ts",
+      "source_location": "L1",
+      "id": "src_app_features_users_state_users_store_spec_ts",
+      "community": 0,
+      "norm_label": "users.store.spec.ts"
+    },
+    {
+      "label": "mockUsers",
+      "file_type": "code",
+      "source_file": "src/app/features/users/state/users.store.spec.ts",
+      "source_location": "L7",
+      "id": "state_users_store_spec_mockusers",
+      "community": 0,
+      "norm_label": "mockusers"
+    },
+    {
+      "label": "user.model.ts",
+      "file_type": "code",
+      "source_file": "src/app/features/users/models/user.model.ts",
+      "source_location": "L1",
+      "id": "src_app_features_users_models_user_model_ts",
+      "community": 0,
+      "norm_label": "user.model.ts"
+    },
+    {
+      "label": "User",
+      "file_type": "code",
+      "source_file": "src/app/features/users/models/user.model.ts",
+      "source_location": "L1",
+      "id": "models_user_model_user",
+      "community": 0,
+      "norm_label": "user"
+    },
+    {
+      "label": "user-list.component.spec.ts",
+      "file_type": "code",
+      "source_file": "src/app/features/users/components/user-list.component.spec.ts",
+      "source_location": "L1",
+      "id": "src_app_features_users_components_user_list_component_spec_ts",
+      "community": 7,
+      "norm_label": "user-list.component.spec.ts"
+    },
+    {
+      "label": "mockUsers",
+      "file_type": "code",
+      "source_file": "src/app/features/users/components/user-list.component.spec.ts",
+      "source_location": "L9",
+      "id": "components_user_list_component_spec_mockusers",
+      "community": 7,
+      "norm_label": "mockusers"
+    },
+    {
+      "label": "createMockStore()",
+      "file_type": "code",
+      "source_file": "src/app/features/users/components/user-list.component.spec.ts",
+      "source_location": "L28",
+      "id": "components_user_list_component_spec_createmockstore",
+      "community": 7,
+      "norm_label": "createmockstore()"
+    },
+    {
+      "label": "spinner",
+      "file_type": "code",
+      "source_file": "src/app/features/users/components/user-list.component.spec.ts",
+      "source_location": "L76",
+      "id": "components_user_list_component_spec_spinner",
+      "community": 7,
+      "norm_label": "spinner"
+    },
+    {
+      "label": "grid",
+      "file_type": "code",
+      "source_file": "src/app/features/users/components/user-list.component.spec.ts",
+      "source_location": "L84",
+      "id": "components_user_list_component_spec_grid",
+      "community": 7,
+      "norm_label": "grid"
+    },
+    {
+      "label": "alert",
+      "file_type": "code",
+      "source_file": "src/app/features/users/components/user-list.component.spec.ts",
+      "source_location": "L102",
+      "id": "components_user_list_component_spec_alert",
+      "community": 7,
+      "norm_label": "alert"
+    },
+    {
+      "label": "badge",
+      "file_type": "code",
+      "source_file": "src/app/features/users/components/user-list.component.spec.ts",
+      "source_location": "L127",
+      "id": "components_user_list_component_spec_badge",
+      "community": 7,
+      "norm_label": "badge"
+    },
+    {
+      "label": "cards",
+      "file_type": "code",
+      "source_file": "src/app/features/users/components/user-list.component.spec.ts",
+      "source_location": "L152",
+      "id": "components_user_list_component_spec_cards",
+      "community": 7,
+      "norm_label": "cards"
+    },
+    {
+      "label": "empty",
+      "file_type": "code",
+      "source_file": "src/app/features/users/components/user-list.component.spec.ts",
+      "source_location": "L160",
+      "id": "components_user_list_component_spec_empty",
+      "community": 7,
+      "norm_label": "empty"
+    },
+    {
+      "label": "card",
+      "file_type": "code",
+      "source_file": "src/app/features/users/components/user-list.component.spec.ts",
+      "source_location": "L186",
+      "id": "components_user_list_component_spec_card",
+      "community": 7,
+      "norm_label": "card"
+    },
+    {
+      "label": "user-card.component.spec.ts",
+      "file_type": "code",
+      "source_file": "src/app/features/users/components/user-card.component.spec.ts",
+      "source_location": "L1",
+      "id": "src_app_features_users_components_user_card_component_spec_ts",
+      "community": 0,
+      "norm_label": "user-card.component.spec.ts"
+    },
+    {
+      "label": "mockUser",
+      "file_type": "code",
+      "source_file": "src/app/features/users/components/user-card.component.spec.ts",
+      "source_location": "L7",
+      "id": "components_user_card_component_spec_mockuser",
+      "community": 0,
+      "norm_label": "mockuser"
+    },
+    {
+      "label": "createComponent()",
+      "file_type": "code",
+      "source_file": "src/app/features/users/components/user-card.component.spec.ts",
+      "source_location": "L20",
+      "id": "components_user_card_component_spec_createcomponent",
+      "community": 0,
+      "norm_label": "createcomponent()"
+    },
+    {
+      "label": "text",
+      "file_type": "code",
+      "source_file": "src/app/features/users/components/user-card.component.spec.ts",
+      "source_location": "L38",
+      "id": "components_user_card_component_spec_text",
+      "community": 0,
+      "norm_label": "text"
+    },
+    {
+      "label": "badge",
+      "file_type": "code",
+      "source_file": "src/app/features/users/components/user-card.component.spec.ts",
+      "source_location": "L46",
+      "id": "components_user_card_component_spec_badge",
+      "community": 0,
+      "norm_label": "badge"
+    },
+    {
+      "label": "card",
+      "file_type": "code",
+      "source_file": "src/app/features/users/components/user-card.component.spec.ts",
+      "source_location": "L62",
+      "id": "components_user_card_component_spec_card",
+      "community": 0,
+      "norm_label": "card"
+    },
+    {
+      "label": "selectSpy",
+      "file_type": "code",
+      "source_file": "src/app/features/users/components/user-card.component.spec.ts",
+      "source_location": "L76",
+      "id": "components_user_card_component_spec_selectspy",
+      "community": 0,
+      "norm_label": "selectspy"
+    },
+    {
+      "label": "deleteSpy",
+      "file_type": "code",
+      "source_file": "src/app/features/users/components/user-card.component.spec.ts",
+      "source_location": "L97",
+      "id": "components_user_card_component_spec_deletespy",
+      "community": 0,
+      "norm_label": "deletespy"
+    },
+    {
+      "label": "btn",
+      "file_type": "code",
+      "source_file": "src/app/features/users/components/user-card.component.spec.ts",
+      "source_location": "L99",
+      "id": "components_user_card_component_spec_btn",
+      "community": 0,
+      "norm_label": "btn"
+    },
+    {
+      "label": "event",
+      "file_type": "code",
+      "source_file": "src/app/features/users/components/user-card.component.spec.ts",
+      "source_location": "L109",
+      "id": "components_user_card_component_spec_event",
+      "community": 0,
+      "norm_label": "event"
+    },
+    {
+      "label": "roleBadge",
+      "file_type": "code",
+      "source_file": "src/app/features/users/components/user-card.component.spec.ts",
+      "source_location": "L139",
+      "id": "components_user_card_component_spec_rolebadge",
+      "community": 0,
+      "norm_label": "rolebadge"
+    },
+    {
+      "label": "user-list.component.ts",
+      "file_type": "code",
+      "source_file": "src/app/features/users/components/user-list.component.ts",
+      "source_location": "L1",
+      "id": "src_app_features_users_components_user_list_component_ts",
+      "community": 0,
+      "norm_label": "user-list.component.ts"
+    },
+    {
+      "label": "UserListComponent",
+      "file_type": "code",
+      "source_file": "src/app/features/users/components/user-list.component.ts",
+      "source_location": "L61",
+      "id": "components_user_list_component_userlistcomponent",
+      "community": 7,
+      "norm_label": "userlistcomponent"
+    },
+    {
+      "label": ".ngOnInit()",
+      "file_type": "code",
+      "source_file": "src/app/features/users/components/user-list.component.ts",
+      "source_location": "L64",
+      "id": "components_user_list_component_userlistcomponent_ngoninit",
+      "community": 7,
+      "norm_label": ".ngoninit()"
+    },
+    {
+      "label": "user-card.component.ts",
+      "file_type": "code",
+      "source_file": "src/app/features/users/components/user-card.component.ts",
+      "source_location": "L1",
+      "id": "src_app_features_users_components_user_card_component_ts",
+      "community": 0,
+      "norm_label": "user-card.component.ts"
+    },
+    {
+      "label": "UserCardComponent",
+      "file_type": "code",
+      "source_file": "src/app/features/users/components/user-card.component.ts",
+      "source_location": "L42",
+      "id": "components_user_card_component_usercardcomponent",
+      "community": 0,
+      "norm_label": "usercardcomponent"
+    },
+    {
+      "label": ".onDelete()",
+      "file_type": "code",
+      "source_file": "src/app/features/users/components/user-card.component.ts",
+      "source_location": "L48",
+      "id": "components_user_card_component_usercardcomponent_ondelete",
+      "community": 0,
+      "norm_label": ".ondelete()"
+    },
+    {
+      "label": "environment.ts",
+      "file_type": "code",
+      "source_file": "src/environments/environment.ts",
+      "source_location": "L1",
+      "id": "src_environments_environment_ts",
+      "community": 1,
+      "norm_label": "environment.ts"
+    },
+    {
+      "label": "environment",
+      "file_type": "code",
+      "source_file": "src/environments/environment.ts",
+      "source_location": "L1",
+      "id": "environments_environment_environment",
+      "community": 1,
+      "norm_label": "environment"
+    },
+    {
+      "label": "environment.prod.ts",
+      "file_type": "code",
+      "source_file": "src/environments/environment.prod.ts",
+      "source_location": "L1",
+      "id": "src_environments_environment_prod_ts",
+      "community": 13,
+      "norm_label": "environment.prod.ts"
+    },
+    {
+      "label": "environment",
+      "file_type": "code",
+      "source_file": "src/environments/environment.prod.ts",
+      "source_location": "L1",
+      "id": "environments_environment_prod_environment",
+      "community": 13,
+      "norm_label": "environment"
+    },
+    {
+      "label": "CLAUDE.md",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L1",
+      "id": "claude_md",
+      "community": 3,
+      "norm_label": "claude.md"
+    },
+    {
+      "label": "CLAUDE.md",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L1",
+      "id": "angular_inc_claude_claude_md",
+      "community": 3,
+      "norm_label": "claude.md"
+    },
+    {
+      "label": "Stack",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L5",
+      "id": "angular_inc_claude_stack",
+      "community": 3,
+      "norm_label": "stack"
+    },
+    {
+      "label": "Commands",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L13",
+      "id": "angular_inc_claude_commands",
+      "community": 3,
+      "norm_label": "commands"
+    },
+    {
+      "label": "Project Layout",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L19",
+      "id": "angular_inc_claude_project_layout",
+      "community": 3,
+      "norm_label": "project layout"
+    },
+    {
+      "label": "code:block1 (src/app/)",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L21",
+      "id": "angular_inc_claude_codeblock_1",
+      "community": 3,
+      "norm_label": "code:block1 (src/app/)"
+    },
+    {
+      "label": "Angular Rules",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L39",
+      "id": "angular_inc_claude_angular_rules",
+      "community": 3,
+      "norm_label": "angular rules"
+    },
+    {
+      "label": "State Management (NgRx SignalStore)",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L52",
+      "id": "angular_inc_claude_state_management_ngrx_signalstore",
+      "community": 3,
+      "norm_label": "state management (ngrx signalstore)"
+    },
+    {
+      "label": "code:ts (export const MyStore = signalStore()",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L56",
+      "id": "angular_inc_claude_codeblock_2",
+      "community": 3,
+      "norm_label": "code:ts (export const mystore = signalstore()"
+    },
+    {
+      "label": "Mock Service Pattern",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L76",
+      "id": "angular_inc_claude_mock_service_pattern",
+      "community": 3,
+      "norm_label": "mock service pattern"
+    },
+    {
+      "label": "code:ts (...(environment.useMock ? [{ provide: UserApiService, useCla)",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L79",
+      "id": "angular_inc_claude_codeblock_3",
+      "community": 3,
+      "norm_label": "code:ts (...(environment.usemock ? [{ provide: userapiservice, usecla)"
+    },
+    {
+      "label": "Bootstrap 5 / SCSS",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L84",
+      "id": "angular_inc_claude_bootstrap_5_scss",
+      "community": 3,
+      "norm_label": "bootstrap 5 / scss"
+    },
+    {
+      "label": "File Naming",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L90",
+      "id": "angular_inc_claude_file_naming",
+      "community": 3,
+      "norm_label": "file naming"
+    },
+    {
+      "label": "Git",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L97",
+      "id": "angular_inc_claude_git",
+      "community": 3,
+      "norm_label": "git"
+    },
+    {
+      "label": "Hard Rules",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L102",
+      "id": "angular_inc_claude_hard_rules",
+      "community": 3,
+      "norm_label": "hard rules"
+    },
+    {
+      "label": "README.md",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "id": "readme_md",
+      "community": 6,
+      "norm_label": "readme.md"
+    },
+    {
+      "label": "AngularInc",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "id": "angular_inc_readme_angularinc",
+      "community": 6,
+      "norm_label": "angularinc"
+    },
+    {
+      "label": "Development server",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L5",
+      "id": "angular_inc_readme_development_server",
+      "community": 6,
+      "norm_label": "development server"
+    },
+    {
+      "label": "code:bash (ng serve)",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L9",
+      "id": "angular_inc_readme_codeblock_1",
+      "community": 6,
+      "norm_label": "code:bash (ng serve)"
+    },
+    {
+      "label": "Code scaffolding",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L15",
+      "id": "angular_inc_readme_code_scaffolding",
+      "community": 6,
+      "norm_label": "code scaffolding"
+    },
+    {
+      "label": "code:bash (ng generate component component-name)",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L19",
+      "id": "angular_inc_readme_codeblock_2",
+      "community": 6,
+      "norm_label": "code:bash (ng generate component component-name)"
+    },
+    {
+      "label": "code:bash (ng generate --help)",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L25",
+      "id": "angular_inc_readme_codeblock_3",
+      "community": 6,
+      "norm_label": "code:bash (ng generate --help)"
+    },
+    {
+      "label": "Building",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L29",
+      "id": "angular_inc_readme_building",
+      "community": 6,
+      "norm_label": "building"
+    },
+    {
+      "label": "code:bash (ng build)",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L33",
+      "id": "angular_inc_readme_codeblock_4",
+      "community": 6,
+      "norm_label": "code:bash (ng build)"
+    },
+    {
+      "label": "Running unit tests",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L39",
+      "id": "angular_inc_readme_running_unit_tests",
+      "community": 6,
+      "norm_label": "running unit tests"
+    },
+    {
+      "label": "code:bash (ng test)",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L43",
+      "id": "angular_inc_readme_codeblock_5",
+      "community": 6,
+      "norm_label": "code:bash (ng test)"
+    },
+    {
+      "label": "Running end-to-end tests",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L47",
+      "id": "angular_inc_readme_running_end_to_end_tests",
+      "community": 6,
+      "norm_label": "running end-to-end tests"
+    },
+    {
+      "label": "code:bash (ng e2e)",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L51",
+      "id": "angular_inc_readme_codeblock_6",
+      "community": 6,
+      "norm_label": "code:bash (ng e2e)"
+    },
+    {
+      "label": "Additional Resources",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L57",
+      "id": "angular_inc_readme_additional_resources",
+      "community": 6,
+      "norm_label": "additional resources"
+    }
+  ],
+  "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/sorter.js",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "coverage_angular_inc_sorter_js",
+      "target": "angular_inc_sorter_gettable",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/sorter.js",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "coverage_angular_inc_sorter_js",
+      "target": "angular_inc_sorter_gettableheader",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/sorter.js",
+      "source_location": "L19",
+      "weight": 1.0,
+      "source": "coverage_angular_inc_sorter_js",
+      "target": "angular_inc_sorter_gettablebody",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/sorter.js",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "coverage_angular_inc_sorter_js",
+      "target": "angular_inc_sorter_getnthcolumn",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/sorter.js",
+      "source_location": "L27",
+      "weight": 1.0,
+      "source": "coverage_angular_inc_sorter_js",
+      "target": "angular_inc_sorter_onfilterinput",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/sorter.js",
+      "source_location": "L59",
+      "weight": 1.0,
+      "source": "coverage_angular_inc_sorter_js",
+      "target": "angular_inc_sorter_addsearchbox",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/sorter.js",
+      "source_location": "L67",
+      "weight": 1.0,
+      "source": "coverage_angular_inc_sorter_js",
+      "target": "angular_inc_sorter_loadcolumns",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/sorter.js",
+      "source_location": "L92",
+      "weight": 1.0,
+      "source": "coverage_angular_inc_sorter_js",
+      "target": "angular_inc_sorter_loadrowdata",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/sorter.js",
+      "source_location": "L111",
+      "weight": 1.0,
+      "source": "coverage_angular_inc_sorter_js",
+      "target": "angular_inc_sorter_loaddata",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/sorter.js",
+      "source_location": "L120",
+      "weight": 1.0,
+      "source": "coverage_angular_inc_sorter_js",
+      "target": "angular_inc_sorter_sortbyindex",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/sorter.js",
+      "source_location": "L151",
+      "weight": 1.0,
+      "source": "coverage_angular_inc_sorter_js",
+      "target": "angular_inc_sorter_removesortindicators",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/sorter.js",
+      "source_location": "L159",
+      "weight": 1.0,
+      "source": "coverage_angular_inc_sorter_js",
+      "target": "angular_inc_sorter_addsortindicators",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/sorter.js",
+      "source_location": "L165",
+      "weight": 1.0,
+      "source": "coverage_angular_inc_sorter_js",
+      "target": "angular_inc_sorter_enableui",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/sorter.js",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "angular_inc_sorter_gettableheader",
+      "target": "angular_inc_sorter_gettable",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/sorter.js",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "angular_inc_sorter_gettablebody",
+      "target": "angular_inc_sorter_gettable",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/sorter.js",
+      "source_location": "L24",
+      "weight": 1.0,
+      "source": "angular_inc_sorter_getnthcolumn",
+      "target": "angular_inc_sorter_gettableheader",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/sorter.js",
+      "source_location": "L68",
+      "weight": 1.0,
+      "source": "angular_inc_sorter_loadcolumns",
+      "target": "angular_inc_sorter_gettableheader",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/sorter.js",
+      "source_location": "L112",
+      "weight": 1.0,
+      "source": "angular_inc_sorter_loaddata",
+      "target": "angular_inc_sorter_gettablebody",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/sorter.js",
+      "source_location": "L152",
+      "weight": 1.0,
+      "source": "angular_inc_sorter_removesortindicators",
+      "target": "angular_inc_sorter_getnthcolumn",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/sorter.js",
+      "source_location": "L160",
+      "weight": 1.0,
+      "source": "angular_inc_sorter_addsortindicators",
+      "target": "angular_inc_sorter_getnthcolumn",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/sorter.js",
+      "source_location": "L188",
+      "weight": 1.0,
+      "source": "angular_inc_sorter_enableui",
+      "target": "angular_inc_sorter_getnthcolumn",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/sorter.js",
+      "source_location": "L116",
+      "weight": 1.0,
+      "source": "angular_inc_sorter_loaddata",
+      "target": "angular_inc_sorter_loadrowdata",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/sorter.js",
+      "source_location": "L177",
+      "weight": 1.0,
+      "source": "angular_inc_sorter_enableui",
+      "target": "angular_inc_sorter_sortbyindex",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/sorter.js",
+      "source_location": "L178",
+      "weight": 1.0,
+      "source": "angular_inc_sorter_enableui",
+      "target": "angular_inc_sorter_removesortindicators",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/sorter.js",
+      "source_location": "L181",
+      "weight": 1.0,
+      "source": "angular_inc_sorter_enableui",
+      "target": "angular_inc_sorter_addsortindicators",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/block-navigation.js",
+      "source_location": "L24",
+      "weight": 1.0,
+      "source": "coverage_angular_inc_block_navigation_js",
+      "target": "angular_inc_block_navigation_toggleclass",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/block-navigation.js",
+      "source_location": "L31",
+      "weight": 1.0,
+      "source": "coverage_angular_inc_block_navigation_js",
+      "target": "angular_inc_block_navigation_makecurrent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/block-navigation.js",
+      "source_location": "L41",
+      "weight": 1.0,
+      "source": "coverage_angular_inc_block_navigation_js",
+      "target": "angular_inc_block_navigation_gotoprevious",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/block-navigation.js",
+      "source_location": "L52",
+      "weight": 1.0,
+      "source": "coverage_angular_inc_block_navigation_js",
+      "target": "angular_inc_block_navigation_gotonext",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/block-navigation.js",
+      "source_location": "L32",
+      "weight": 1.0,
+      "source": "angular_inc_block_navigation_makecurrent",
+      "target": "angular_inc_block_navigation_toggleclass",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/block-navigation.js",
+      "source_location": "L49",
+      "weight": 1.0,
+      "source": "angular_inc_block_navigation_gotoprevious",
+      "target": "angular_inc_block_navigation_makecurrent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/block-navigation.js",
+      "source_location": "L62",
+      "weight": 1.0,
+      "source": "angular_inc_block_navigation_gotonext",
+      "target": "angular_inc_block_navigation_makecurrent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/prettify.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "coverage_angular_inc_prettify_js",
+      "target": "angular_inc_prettify_k",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/prettify.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "coverage_angular_inc_prettify_js",
+      "target": "angular_inc_prettify_a",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/prettify.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "coverage_angular_inc_prettify_js",
+      "target": "angular_inc_prettify_b",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/prettify.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "coverage_angular_inc_prettify_js",
+      "target": "angular_inc_prettify_o",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/prettify.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "coverage_angular_inc_prettify_js",
+      "target": "angular_inc_prettify_g",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/prettify.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "coverage_angular_inc_prettify_js",
+      "target": "angular_inc_prettify_i",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/prettify.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "coverage_angular_inc_prettify_js",
+      "target": "angular_inc_prettify_q",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/prettify.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "coverage_angular_inc_prettify_js",
+      "target": "angular_inc_prettify_d",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/prettify.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "coverage_angular_inc_prettify_js",
+      "target": "angular_inc_prettify_c",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/prettify.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "coverage_angular_inc_prettify_js",
+      "target": "angular_inc_prettify_y",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/prettify.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "angular_inc_prettify_g",
+      "target": "angular_inc_prettify_k",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/prettify.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "angular_inc_prettify_d",
+      "target": "angular_inc_prettify_a",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/prettify.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "angular_inc_prettify_g",
+      "target": "angular_inc_prettify_b",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/prettify.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "angular_inc_prettify_b",
+      "target": "angular_inc_prettify_y",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/prettify.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "angular_inc_prettify_g",
+      "target": "angular_inc_prettify_q",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/prettify.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "angular_inc_prettify_i",
+      "target": "angular_inc_prettify_g",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/prettify.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "angular_inc_prettify_d",
+      "target": "angular_inc_prettify_q",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/prettify.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "angular_inc_prettify_y",
+      "target": "angular_inc_prettify_q",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/prettify.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "angular_inc_prettify_y",
+      "target": "angular_inc_prettify_d",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/lcov-report/sorter.js",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "coverage_angular_inc_lcov_report_sorter_js",
+      "target": "lcov_report_sorter_gettable",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/lcov-report/sorter.js",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "coverage_angular_inc_lcov_report_sorter_js",
+      "target": "lcov_report_sorter_gettableheader",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/lcov-report/sorter.js",
+      "source_location": "L19",
+      "weight": 1.0,
+      "source": "coverage_angular_inc_lcov_report_sorter_js",
+      "target": "lcov_report_sorter_gettablebody",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/lcov-report/sorter.js",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "coverage_angular_inc_lcov_report_sorter_js",
+      "target": "lcov_report_sorter_getnthcolumn",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/lcov-report/sorter.js",
+      "source_location": "L27",
+      "weight": 1.0,
+      "source": "coverage_angular_inc_lcov_report_sorter_js",
+      "target": "lcov_report_sorter_onfilterinput",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/lcov-report/sorter.js",
+      "source_location": "L59",
+      "weight": 1.0,
+      "source": "coverage_angular_inc_lcov_report_sorter_js",
+      "target": "lcov_report_sorter_addsearchbox",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/lcov-report/sorter.js",
+      "source_location": "L67",
+      "weight": 1.0,
+      "source": "coverage_angular_inc_lcov_report_sorter_js",
+      "target": "lcov_report_sorter_loadcolumns",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/lcov-report/sorter.js",
+      "source_location": "L92",
+      "weight": 1.0,
+      "source": "coverage_angular_inc_lcov_report_sorter_js",
+      "target": "lcov_report_sorter_loadrowdata",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/lcov-report/sorter.js",
+      "source_location": "L111",
+      "weight": 1.0,
+      "source": "coverage_angular_inc_lcov_report_sorter_js",
+      "target": "lcov_report_sorter_loaddata",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/lcov-report/sorter.js",
+      "source_location": "L120",
+      "weight": 1.0,
+      "source": "coverage_angular_inc_lcov_report_sorter_js",
+      "target": "lcov_report_sorter_sortbyindex",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/lcov-report/sorter.js",
+      "source_location": "L151",
+      "weight": 1.0,
+      "source": "coverage_angular_inc_lcov_report_sorter_js",
+      "target": "lcov_report_sorter_removesortindicators",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/lcov-report/sorter.js",
+      "source_location": "L159",
+      "weight": 1.0,
+      "source": "coverage_angular_inc_lcov_report_sorter_js",
+      "target": "lcov_report_sorter_addsortindicators",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/lcov-report/sorter.js",
+      "source_location": "L165",
+      "weight": 1.0,
+      "source": "coverage_angular_inc_lcov_report_sorter_js",
+      "target": "lcov_report_sorter_enableui",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/lcov-report/sorter.js",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "lcov_report_sorter_gettableheader",
+      "target": "lcov_report_sorter_gettable",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/lcov-report/sorter.js",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "lcov_report_sorter_gettablebody",
+      "target": "lcov_report_sorter_gettable",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/lcov-report/sorter.js",
+      "source_location": "L24",
+      "weight": 1.0,
+      "source": "lcov_report_sorter_getnthcolumn",
+      "target": "lcov_report_sorter_gettableheader",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/lcov-report/sorter.js",
+      "source_location": "L68",
+      "weight": 1.0,
+      "source": "lcov_report_sorter_loadcolumns",
+      "target": "lcov_report_sorter_gettableheader",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/lcov-report/sorter.js",
+      "source_location": "L112",
+      "weight": 1.0,
+      "source": "lcov_report_sorter_loaddata",
+      "target": "lcov_report_sorter_gettablebody",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/lcov-report/sorter.js",
+      "source_location": "L152",
+      "weight": 1.0,
+      "source": "lcov_report_sorter_removesortindicators",
+      "target": "lcov_report_sorter_getnthcolumn",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/lcov-report/sorter.js",
+      "source_location": "L160",
+      "weight": 1.0,
+      "source": "lcov_report_sorter_addsortindicators",
+      "target": "lcov_report_sorter_getnthcolumn",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/lcov-report/sorter.js",
+      "source_location": "L188",
+      "weight": 1.0,
+      "source": "lcov_report_sorter_enableui",
+      "target": "lcov_report_sorter_getnthcolumn",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/lcov-report/sorter.js",
+      "source_location": "L116",
+      "weight": 1.0,
+      "source": "lcov_report_sorter_loaddata",
+      "target": "lcov_report_sorter_loadrowdata",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/lcov-report/sorter.js",
+      "source_location": "L177",
+      "weight": 1.0,
+      "source": "lcov_report_sorter_enableui",
+      "target": "lcov_report_sorter_sortbyindex",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/lcov-report/sorter.js",
+      "source_location": "L178",
+      "weight": 1.0,
+      "source": "lcov_report_sorter_enableui",
+      "target": "lcov_report_sorter_removesortindicators",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/lcov-report/sorter.js",
+      "source_location": "L181",
+      "weight": 1.0,
+      "source": "lcov_report_sorter_enableui",
+      "target": "lcov_report_sorter_addsortindicators",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/lcov-report/block-navigation.js",
+      "source_location": "L24",
+      "weight": 1.0,
+      "source": "coverage_angular_inc_lcov_report_block_navigation_js",
+      "target": "lcov_report_block_navigation_toggleclass",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/lcov-report/block-navigation.js",
+      "source_location": "L31",
+      "weight": 1.0,
+      "source": "coverage_angular_inc_lcov_report_block_navigation_js",
+      "target": "lcov_report_block_navigation_makecurrent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/lcov-report/block-navigation.js",
+      "source_location": "L41",
+      "weight": 1.0,
+      "source": "coverage_angular_inc_lcov_report_block_navigation_js",
+      "target": "lcov_report_block_navigation_gotoprevious",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/lcov-report/block-navigation.js",
+      "source_location": "L52",
+      "weight": 1.0,
+      "source": "coverage_angular_inc_lcov_report_block_navigation_js",
+      "target": "lcov_report_block_navigation_gotonext",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/lcov-report/block-navigation.js",
+      "source_location": "L32",
+      "weight": 1.0,
+      "source": "lcov_report_block_navigation_makecurrent",
+      "target": "lcov_report_block_navigation_toggleclass",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/lcov-report/block-navigation.js",
+      "source_location": "L49",
+      "weight": 1.0,
+      "source": "lcov_report_block_navigation_gotoprevious",
+      "target": "lcov_report_block_navigation_makecurrent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/lcov-report/block-navigation.js",
+      "source_location": "L62",
+      "weight": 1.0,
+      "source": "lcov_report_block_navigation_gotonext",
+      "target": "lcov_report_block_navigation_makecurrent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/lcov-report/prettify.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "coverage_angular_inc_lcov_report_prettify_js",
+      "target": "lcov_report_prettify_k",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/lcov-report/prettify.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "coverage_angular_inc_lcov_report_prettify_js",
+      "target": "lcov_report_prettify_a",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/lcov-report/prettify.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "coverage_angular_inc_lcov_report_prettify_js",
+      "target": "lcov_report_prettify_b",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/lcov-report/prettify.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "coverage_angular_inc_lcov_report_prettify_js",
+      "target": "lcov_report_prettify_o",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/lcov-report/prettify.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "coverage_angular_inc_lcov_report_prettify_js",
+      "target": "lcov_report_prettify_g",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/lcov-report/prettify.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "coverage_angular_inc_lcov_report_prettify_js",
+      "target": "lcov_report_prettify_i",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/lcov-report/prettify.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "coverage_angular_inc_lcov_report_prettify_js",
+      "target": "lcov_report_prettify_q",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/lcov-report/prettify.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "coverage_angular_inc_lcov_report_prettify_js",
+      "target": "lcov_report_prettify_d",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/lcov-report/prettify.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "coverage_angular_inc_lcov_report_prettify_js",
+      "target": "lcov_report_prettify_c",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/lcov-report/prettify.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "coverage_angular_inc_lcov_report_prettify_js",
+      "target": "lcov_report_prettify_y",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/lcov-report/prettify.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "lcov_report_prettify_g",
+      "target": "lcov_report_prettify_k",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/lcov-report/prettify.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "lcov_report_prettify_d",
+      "target": "lcov_report_prettify_a",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/lcov-report/prettify.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "lcov_report_prettify_g",
+      "target": "lcov_report_prettify_b",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/lcov-report/prettify.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "lcov_report_prettify_b",
+      "target": "lcov_report_prettify_y",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/lcov-report/prettify.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "lcov_report_prettify_g",
+      "target": "lcov_report_prettify_q",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/lcov-report/prettify.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "lcov_report_prettify_i",
+      "target": "lcov_report_prettify_g",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/lcov-report/prettify.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "lcov_report_prettify_d",
+      "target": "lcov_report_prettify_q",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/lcov-report/prettify.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "lcov_report_prettify_y",
+      "target": "lcov_report_prettify_q",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "coverage/angular-inc/lcov-report/prettify.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "lcov_report_prettify_y",
+      "target": "lcov_report_prettify_d",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/main.ts",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "src_main_ts",
+      "target": "src_app_app_config_ts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/main.ts",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "src_main_ts",
+      "target": "app_app_config_appconfig",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/main.ts",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "src_main_ts",
+      "target": "src_app_app_ts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/main.ts",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "src_main_ts",
+      "target": "app_app_app",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/app.routes.ts",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "src_app_app_routes_ts",
+      "target": "app_app_routes_routes",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/app.config.ts",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "src_app_app_config_ts",
+      "target": "src_app_app_routes_ts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/app.config.ts",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "src_app_app_config_ts",
+      "target": "app_app_routes_routes",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/app.ts",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "src_app_app_ts",
+      "target": "app_app_app",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/app.spec.ts",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "src_app_app_spec_ts",
+      "target": "src_app_app_ts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/app.spec.ts",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "src_app_app_spec_ts",
+      "target": "app_app_app",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/app.config.ts",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "src_app_app_config_ts",
+      "target": "src_environments_environment_ts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/app.config.ts",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "src_app_app_config_ts",
+      "target": "environments_environment_environment",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/app.config.ts",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "src_app_app_config_ts",
+      "target": "src_app_features_users_services_user_api_service_ts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/app.config.ts",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "src_app_app_config_ts",
+      "target": "services_user_api_service_userapiservice",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/app.config.ts",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "src_app_app_config_ts",
+      "target": "src_app_features_users_services_mock_user_api_service_ts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/app.config.ts",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "src_app_app_config_ts",
+      "target": "services_mock_user_api_service_mockuserapiservice",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/app.config.ts",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "src_app_app_config_ts",
+      "target": "app_app_config_appconfig",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/app.spec.ts",
+      "source_location": "L26",
+      "weight": 1.0,
+      "source": "src_app_app_spec_ts",
+      "target": "app_app_spec_fixture",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/app.spec.ts",
+      "source_location": "L21",
+      "weight": 1.0,
+      "source": "src_app_app_spec_ts",
+      "target": "app_app_spec_el",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/shared/components/data-table/data-table.component.ts",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "src_app_shared_components_data_table_data_table_component_ts",
+      "target": "data_table_data_table_component_tablecolumn",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/shared/components/data-table/data-table.component.ts",
+      "source_location": "L63",
+      "weight": 1.0,
+      "source": "src_app_shared_components_data_table_data_table_component_ts",
+      "target": "data_table_data_table_component_datatablecomponent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/shared/components/data-table/data-table.component.ts",
+      "source_location": "L72",
+      "weight": 1.0,
+      "source": "src_app_shared_components_data_table_data_table_component_ts",
+      "target": "data_table_data_table_component_key",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/shared/components/data-table/data-table.component.ts",
+      "source_location": "L77",
+      "weight": 1.0,
+      "source": "src_app_shared_components_data_table_data_table_component_ts",
+      "target": "data_table_data_table_component_cmp",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/shared/components/data-table/data-table.component.spec.ts",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "src_app_shared_components_data_table_data_table_component_spec_ts",
+      "target": "src_app_shared_components_data_table_data_table_component_ts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/shared/components/data-table/data-table.component.spec.ts",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "src_app_shared_components_data_table_data_table_component_spec_ts",
+      "target": "data_table_data_table_component_tablecolumn",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/shared/components/data-table/data-table.component.ts",
+      "source_location": "L82",
+      "weight": 1.0,
+      "source": "data_table_data_table_component_datatablecomponent",
+      "target": "data_table_data_table_component_datatablecomponent_togglesort",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/shared/components/data-table/data-table.component.spec.ts",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "src_app_shared_components_data_table_data_table_component_spec_ts",
+      "target": "data_table_data_table_component_datatablecomponent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/shared/components/data-table/data-table.component.spec.ts",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "src_app_shared_components_data_table_data_table_component_spec_ts",
+      "target": "data_table_data_table_component_spec_columns",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/shared/components/data-table/data-table.component.spec.ts",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "src_app_shared_components_data_table_data_table_component_spec_ts",
+      "target": "data_table_data_table_component_spec_data",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/shared/components/data-table/data-table.component.spec.ts",
+      "source_location": "L22",
+      "weight": 1.0,
+      "source": "src_app_shared_components_data_table_data_table_component_spec_ts",
+      "target": "data_table_data_table_component_spec_setup",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/shared/components/data-table/data-table.component.spec.ts",
+      "source_location": "L35",
+      "weight": 1.0,
+      "source": "src_app_shared_components_data_table_data_table_component_spec_ts",
+      "target": "data_table_data_table_component_spec_ths",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/shared/components/data-table/data-table.component.spec.ts",
+      "source_location": "L41",
+      "weight": 1.0,
+      "source": "src_app_shared_components_data_table_data_table_component_spec_ts",
+      "target": "data_table_data_table_component_spec_rows",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/shared/components/data-table/data-table.component.spec.ts",
+      "source_location": "L46",
+      "weight": 1.0,
+      "source": "src_app_shared_components_data_table_data_table_component_spec_ts",
+      "target": "data_table_data_table_component_spec_cells",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/shared/components/data-table/data-table.component.spec.ts",
+      "source_location": "L52",
+      "weight": 1.0,
+      "source": "src_app_shared_components_data_table_data_table_component_spec_ts",
+      "target": "data_table_data_table_component_spec_el",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/shared/components/data-table/data-table.component.spec.ts",
+      "source_location": "L83",
+      "weight": 1.0,
+      "source": "src_app_shared_components_data_table_data_table_component_spec_ts",
+      "target": "data_table_data_table_component_spec_fixture",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/shared/components/data-table/data-table.component.spec.ts",
+      "source_location": "L78",
+      "weight": 1.0,
+      "source": "src_app_shared_components_data_table_data_table_component_spec_ts",
+      "target": "data_table_data_table_component_spec_firstcell",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/shared/components/data-table/data-table.component.spec.ts",
+      "source_location": "L66",
+      "weight": 1.0,
+      "source": "src_app_shared_components_data_table_data_table_component_spec_ts",
+      "target": "data_table_data_table_component_spec_nameheader",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/shared/components/data-table/data-table.component.spec.ts",
+      "source_location": "L84",
+      "weight": 1.0,
+      "source": "src_app_shared_components_data_table_data_table_component_spec_ts",
+      "target": "data_table_data_table_component_spec_emitted",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/users.routes.ts",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "src_app_features_users_users_routes_ts",
+      "target": "users_users_routes_usersroutes",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/services/user-api.service.ts",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "src_app_features_users_services_user_api_service_ts",
+      "target": "src_app_features_users_models_user_model_ts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/services/user-api.service.ts",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "src_app_features_users_services_user_api_service_ts",
+      "target": "models_user_model_user",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/services/user-api.service.ts",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "src_app_features_users_services_user_api_service_ts",
+      "target": "services_user_api_service_userapiservice",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/services/mock-user-api.service.ts",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "src_app_features_users_services_mock_user_api_service_ts",
+      "target": "src_app_features_users_services_user_api_service_ts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/state/users.store.ts",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "src_app_features_users_state_users_store_ts",
+      "target": "src_app_features_users_services_user_api_service_ts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/state/users.store.spec.ts",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "src_app_features_users_state_users_store_spec_ts",
+      "target": "src_app_features_users_services_user_api_service_ts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/services/user-api.service.ts",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "services_user_api_service_userapiservice",
+      "target": "services_user_api_service_userapiservice_getall",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/services/user-api.service.ts",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "services_user_api_service_userapiservice",
+      "target": "services_user_api_service_userapiservice_getbyid",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/services/user-api.service.ts",
+      "source_location": "L19",
+      "weight": 1.0,
+      "source": "services_user_api_service_userapiservice",
+      "target": "services_user_api_service_userapiservice_create",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/services/user-api.service.ts",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "services_user_api_service_userapiservice",
+      "target": "services_user_api_service_userapiservice_update",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/services/user-api.service.ts",
+      "source_location": "L27",
+      "weight": 1.0,
+      "source": "services_user_api_service_userapiservice",
+      "target": "services_user_api_service_userapiservice_delete",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/services/mock-user-api.service.ts",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "src_app_features_users_services_mock_user_api_service_ts",
+      "target": "services_user_api_service_userapiservice",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/state/users.store.ts",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "src_app_features_users_state_users_store_ts",
+      "target": "services_user_api_service_userapiservice",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/state/users.store.spec.ts",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "src_app_features_users_state_users_store_spec_ts",
+      "target": "services_user_api_service_userapiservice",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/services/mock-user-api.service.ts",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "src_app_features_users_services_mock_user_api_service_ts",
+      "target": "src_app_features_users_models_user_model_ts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/services/mock-user-api.service.ts",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "src_app_features_users_services_mock_user_api_service_ts",
+      "target": "models_user_model_user",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/services/mock-user-api.service.ts",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "src_app_features_users_services_mock_user_api_service_ts",
+      "target": "services_mock_user_api_service_mock_users",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/services/mock-user-api.service.ts",
+      "source_location": "L51",
+      "weight": 1.0,
+      "source": "src_app_features_users_services_mock_user_api_service_ts",
+      "target": "services_mock_user_api_service_mockuserapiservice",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/services/mock-user-api.service.ts",
+      "source_location": "L54",
+      "weight": 1.0,
+      "source": "services_mock_user_api_service_mockuserapiservice",
+      "target": "services_mock_user_api_service_mockuserapiservice_getall",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/services/mock-user-api.service.ts",
+      "source_location": "L58",
+      "weight": 1.0,
+      "source": "services_mock_user_api_service_mockuserapiservice",
+      "target": "services_mock_user_api_service_mockuserapiservice_getbyid",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/services/mock-user-api.service.ts",
+      "source_location": "L65",
+      "weight": 1.0,
+      "source": "services_mock_user_api_service_mockuserapiservice",
+      "target": "services_mock_user_api_service_mockuserapiservice_create",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/services/mock-user-api.service.ts",
+      "source_location": "L74",
+      "weight": 1.0,
+      "source": "services_mock_user_api_service_mockuserapiservice",
+      "target": "services_mock_user_api_service_mockuserapiservice_update",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/services/mock-user-api.service.ts",
+      "source_location": "L80",
+      "weight": 1.0,
+      "source": "services_mock_user_api_service_mockuserapiservice",
+      "target": "services_mock_user_api_service_mockuserapiservice_delete",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/state/users.store.ts",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "src_app_features_users_state_users_store_ts",
+      "target": "src_app_features_users_models_user_model_ts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/state/users.store.ts",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "src_app_features_users_state_users_store_ts",
+      "target": "models_user_model_user",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/state/users.store.ts",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "src_app_features_users_state_users_store_ts",
+      "target": "state_users_store_usersstate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/state/users.store.ts",
+      "source_location": "L22",
+      "weight": 1.0,
+      "source": "src_app_features_users_state_users_store_ts",
+      "target": "state_users_store_initialstate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/state/users.store.ts",
+      "source_location": "L29",
+      "weight": 1.0,
+      "source": "src_app_features_users_state_users_store_ts",
+      "target": "state_users_store_usersstore",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/state/users.store.spec.ts",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "src_app_features_users_state_users_store_spec_ts",
+      "target": "src_app_features_users_state_users_store_ts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/components/user-list.component.spec.ts",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "src_app_features_users_components_user_list_component_spec_ts",
+      "target": "src_app_features_users_state_users_store_ts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/components/user-list.component.ts",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "src_app_features_users_components_user_list_component_ts",
+      "target": "src_app_features_users_state_users_store_ts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/state/users.store.spec.ts",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "src_app_features_users_state_users_store_spec_ts",
+      "target": "state_users_store_usersstore",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/components/user-list.component.spec.ts",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "src_app_features_users_components_user_list_component_spec_ts",
+      "target": "state_users_store_usersstore",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/components/user-list.component.ts",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "src_app_features_users_components_user_list_component_ts",
+      "target": "state_users_store_usersstore",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/state/users.store.spec.ts",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "src_app_features_users_state_users_store_spec_ts",
+      "target": "src_app_features_users_models_user_model_ts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/state/users.store.spec.ts",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "src_app_features_users_state_users_store_spec_ts",
+      "target": "models_user_model_user",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/state/users.store.spec.ts",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "src_app_features_users_state_users_store_spec_ts",
+      "target": "state_users_store_spec_mockusers",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/models/user.model.ts",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "src_app_features_users_models_user_model_ts",
+      "target": "models_user_model_user",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/components/user-list.component.spec.ts",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "src_app_features_users_components_user_list_component_spec_ts",
+      "target": "src_app_features_users_models_user_model_ts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/components/user-card.component.spec.ts",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "src_app_features_users_components_user_card_component_spec_ts",
+      "target": "src_app_features_users_models_user_model_ts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/components/user-card.component.ts",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "src_app_features_users_components_user_card_component_ts",
+      "target": "src_app_features_users_models_user_model_ts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/components/user-list.component.spec.ts",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "src_app_features_users_components_user_list_component_spec_ts",
+      "target": "models_user_model_user",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/components/user-card.component.spec.ts",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "src_app_features_users_components_user_card_component_spec_ts",
+      "target": "models_user_model_user",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/components/user-card.component.ts",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "src_app_features_users_components_user_card_component_ts",
+      "target": "models_user_model_user",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/components/user-list.component.spec.ts",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "src_app_features_users_components_user_list_component_spec_ts",
+      "target": "src_app_features_users_components_user_list_component_ts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/components/user-list.component.spec.ts",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "src_app_features_users_components_user_list_component_spec_ts",
+      "target": "components_user_list_component_userlistcomponent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/components/user-list.component.spec.ts",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "src_app_features_users_components_user_list_component_spec_ts",
+      "target": "components_user_list_component_spec_mockusers",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/components/user-list.component.spec.ts",
+      "source_location": "L28",
+      "weight": 1.0,
+      "source": "src_app_features_users_components_user_list_component_spec_ts",
+      "target": "components_user_list_component_spec_createmockstore",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/components/user-list.component.spec.ts",
+      "source_location": "L92",
+      "weight": 1.0,
+      "source": "src_app_features_users_components_user_list_component_spec_ts",
+      "target": "components_user_list_component_spec_spinner",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/components/user-list.component.spec.ts",
+      "source_location": "L84",
+      "weight": 1.0,
+      "source": "src_app_features_users_components_user_list_component_spec_ts",
+      "target": "components_user_list_component_spec_grid",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/components/user-list.component.spec.ts",
+      "source_location": "L102",
+      "weight": 1.0,
+      "source": "src_app_features_users_components_user_list_component_spec_ts",
+      "target": "components_user_list_component_spec_alert",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/components/user-list.component.spec.ts",
+      "source_location": "L142",
+      "weight": 1.0,
+      "source": "src_app_features_users_components_user_list_component_spec_ts",
+      "target": "components_user_list_component_spec_badge",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/components/user-list.component.spec.ts",
+      "source_location": "L204",
+      "weight": 1.0,
+      "source": "src_app_features_users_components_user_list_component_spec_ts",
+      "target": "components_user_list_component_spec_cards",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/components/user-list.component.spec.ts",
+      "source_location": "L160",
+      "weight": 1.0,
+      "source": "src_app_features_users_components_user_list_component_spec_ts",
+      "target": "components_user_list_component_spec_empty",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/components/user-list.component.spec.ts",
+      "source_location": "L224",
+      "weight": 1.0,
+      "source": "src_app_features_users_components_user_list_component_spec_ts",
+      "target": "components_user_list_component_spec_card",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/components/user-card.component.spec.ts",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "src_app_features_users_components_user_card_component_spec_ts",
+      "target": "src_app_features_users_components_user_card_component_ts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/components/user-card.component.spec.ts",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "src_app_features_users_components_user_card_component_spec_ts",
+      "target": "components_user_card_component_usercardcomponent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/components/user-card.component.spec.ts",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "src_app_features_users_components_user_card_component_spec_ts",
+      "target": "components_user_card_component_spec_mockuser",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/components/user-card.component.spec.ts",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "src_app_features_users_components_user_card_component_spec_ts",
+      "target": "components_user_card_component_spec_createcomponent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/components/user-card.component.spec.ts",
+      "source_location": "L38",
+      "weight": 1.0,
+      "source": "src_app_features_users_components_user_card_component_spec_ts",
+      "target": "components_user_card_component_spec_text",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/components/user-card.component.spec.ts",
+      "source_location": "L53",
+      "weight": 1.0,
+      "source": "src_app_features_users_components_user_card_component_spec_ts",
+      "target": "components_user_card_component_spec_badge",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/components/user-card.component.spec.ts",
+      "source_location": "L87",
+      "weight": 1.0,
+      "source": "src_app_features_users_components_user_card_component_spec_ts",
+      "target": "components_user_card_component_spec_card",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/components/user-card.component.spec.ts",
+      "source_location": "L106",
+      "weight": 1.0,
+      "source": "src_app_features_users_components_user_card_component_spec_ts",
+      "target": "components_user_card_component_spec_selectspy",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/components/user-card.component.spec.ts",
+      "source_location": "L122",
+      "weight": 1.0,
+      "source": "src_app_features_users_components_user_card_component_spec_ts",
+      "target": "components_user_card_component_spec_deletespy",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/components/user-card.component.spec.ts",
+      "source_location": "L111",
+      "weight": 1.0,
+      "source": "src_app_features_users_components_user_card_component_spec_ts",
+      "target": "components_user_card_component_spec_btn",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/components/user-card.component.spec.ts",
+      "source_location": "L124",
+      "weight": 1.0,
+      "source": "src_app_features_users_components_user_card_component_spec_ts",
+      "target": "components_user_card_component_spec_event",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/components/user-card.component.spec.ts",
+      "source_location": "L139",
+      "weight": 1.0,
+      "source": "src_app_features_users_components_user_card_component_spec_ts",
+      "target": "components_user_card_component_spec_rolebadge",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/components/user-list.component.ts",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "src_app_features_users_components_user_list_component_ts",
+      "target": "src_app_features_users_components_user_card_component_ts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/components/user-list.component.ts",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "src_app_features_users_components_user_list_component_ts",
+      "target": "components_user_card_component_usercardcomponent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/components/user-list.component.ts",
+      "source_location": "L61",
+      "weight": 1.0,
+      "source": "src_app_features_users_components_user_list_component_ts",
+      "target": "components_user_list_component_userlistcomponent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/components/user-list.component.ts",
+      "source_location": "L64",
+      "weight": 1.0,
+      "source": "components_user_list_component_userlistcomponent",
+      "target": "components_user_list_component_userlistcomponent_ngoninit",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/components/user-card.component.ts",
+      "source_location": "L42",
+      "weight": 1.0,
+      "source": "src_app_features_users_components_user_card_component_ts",
+      "target": "components_user_card_component_usercardcomponent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/features/users/components/user-card.component.ts",
+      "source_location": "L48",
+      "weight": 1.0,
+      "source": "components_user_card_component_usercardcomponent",
+      "target": "components_user_card_component_usercardcomponent_ondelete",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/environments/environment.ts",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "src_environments_environment_ts",
+      "target": "environments_environment_environment",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/environments/environment.prod.ts",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "src_environments_environment_prod_ts",
+      "target": "environments_environment_prod_environment",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "claude_md",
+      "target": "angular_inc_claude_claude_md",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "angular_inc_claude_claude_md",
+      "target": "angular_inc_claude_stack",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "angular_inc_claude_claude_md",
+      "target": "angular_inc_claude_commands",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L19",
+      "weight": 1.0,
+      "source": "angular_inc_claude_claude_md",
+      "target": "angular_inc_claude_project_layout",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L39",
+      "weight": 1.0,
+      "source": "angular_inc_claude_claude_md",
+      "target": "angular_inc_claude_angular_rules",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L52",
+      "weight": 1.0,
+      "source": "angular_inc_claude_claude_md",
+      "target": "angular_inc_claude_state_management_ngrx_signalstore",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L76",
+      "weight": 1.0,
+      "source": "angular_inc_claude_claude_md",
+      "target": "angular_inc_claude_mock_service_pattern",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L84",
+      "weight": 1.0,
+      "source": "angular_inc_claude_claude_md",
+      "target": "angular_inc_claude_bootstrap_5_scss",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L90",
+      "weight": 1.0,
+      "source": "angular_inc_claude_claude_md",
+      "target": "angular_inc_claude_file_naming",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L97",
+      "weight": 1.0,
+      "source": "angular_inc_claude_claude_md",
+      "target": "angular_inc_claude_git",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L102",
+      "weight": 1.0,
+      "source": "angular_inc_claude_claude_md",
+      "target": "angular_inc_claude_hard_rules",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L21",
+      "weight": 1.0,
+      "source": "angular_inc_claude_project_layout",
+      "target": "angular_inc_claude_codeblock_1",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L56",
+      "weight": 1.0,
+      "source": "angular_inc_claude_state_management_ngrx_signalstore",
+      "target": "angular_inc_claude_codeblock_2",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L79",
+      "weight": 1.0,
+      "source": "angular_inc_claude_mock_service_pattern",
+      "target": "angular_inc_claude_codeblock_3",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "readme_md",
+      "target": "angular_inc_readme_angularinc",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "angular_inc_readme_angularinc",
+      "target": "angular_inc_readme_development_server",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "angular_inc_readme_angularinc",
+      "target": "angular_inc_readme_code_scaffolding",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L29",
+      "weight": 1.0,
+      "source": "angular_inc_readme_angularinc",
+      "target": "angular_inc_readme_building",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L39",
+      "weight": 1.0,
+      "source": "angular_inc_readme_angularinc",
+      "target": "angular_inc_readme_running_unit_tests",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L47",
+      "weight": 1.0,
+      "source": "angular_inc_readme_angularinc",
+      "target": "angular_inc_readme_running_end_to_end_tests",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L57",
+      "weight": 1.0,
+      "source": "angular_inc_readme_angularinc",
+      "target": "angular_inc_readme_additional_resources",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "angular_inc_readme_development_server",
+      "target": "angular_inc_readme_codeblock_1",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L19",
+      "weight": 1.0,
+      "source": "angular_inc_readme_code_scaffolding",
+      "target": "angular_inc_readme_codeblock_2",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L25",
+      "weight": 1.0,
+      "source": "angular_inc_readme_code_scaffolding",
+      "target": "angular_inc_readme_codeblock_3",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L33",
+      "weight": 1.0,
+      "source": "angular_inc_readme_building",
+      "target": "angular_inc_readme_codeblock_4",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L43",
+      "weight": 1.0,
+      "source": "angular_inc_readme_running_unit_tests",
+      "target": "angular_inc_readme_codeblock_5",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L51",
+      "weight": 1.0,
+      "source": "angular_inc_readme_running_end_to_end_tests",
+      "target": "angular_inc_readme_codeblock_6",
+      "confidence_score": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "built_at_commit": "3a9943f2bed5e4fe075f986bd033a1630416c858"
+}

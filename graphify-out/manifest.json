@@ -1,0 +1,238 @@
+{
+  "/home/manu/Projects/angular-inc/coverage/angular-inc/sorter.js": {
+    "mtime": 1778150644.1006467,
+    "hash": "e2f5129270684bf835820ca4433b4abb"
+  },
+  "/home/manu/Projects/angular-inc/coverage/angular-inc/block-navigation.js": {
+    "mtime": 1778150644.1002514,
+    "hash": "13c8dd65c9b9571b0b4960aeaf3fab0a"
+  },
+  "/home/manu/Projects/angular-inc/coverage/angular-inc/prettify.js": {
+    "mtime": 1778150644.100918,
+    "hash": "6051903a2f7363ee232a01bd32f60b6a"
+  },
+  "/home/manu/Projects/angular-inc/coverage/angular-inc/lcov-report/sorter.js": {
+    "mtime": 1778150644.0918078,
+    "hash": "e2f5129270684bf835820ca4433b4abb"
+  },
+  "/home/manu/Projects/angular-inc/coverage/angular-inc/lcov-report/block-navigation.js": {
+    "mtime": 1778150644.0915506,
+    "hash": "13c8dd65c9b9571b0b4960aeaf3fab0a"
+  },
+  "/home/manu/Projects/angular-inc/coverage/angular-inc/lcov-report/prettify.js": {
+    "mtime": 1778150644.0920224,
+    "hash": "6051903a2f7363ee232a01bd32f60b6a"
+  },
+  "/home/manu/Projects/angular-inc/src/main.ts": {
+    "mtime": 1777886512.635961,
+    "hash": "ac0b277dca1867b341af9e2d25224ae9"
+  },
+  "/home/manu/Projects/angular-inc/src/app/app.routes.ts": {
+    "mtime": 1777887064.866269,
+    "hash": "b2037476627b77931242eb6d16e71b44"
+  },
+  "/home/manu/Projects/angular-inc/src/app/app.ts": {
+    "mtime": 1777890226.363797,
+    "hash": "6c4ae4f89d859559a58aca47ef600f3a"
+  },
+  "/home/manu/Projects/angular-inc/src/app/app.config.ts": {
+    "mtime": 1777889025.4860127,
+    "hash": "60f53f41e6f68d4ef2147aaed9635e10"
+  },
+  "/home/manu/Projects/angular-inc/src/app/app.spec.ts": {
+    "mtime": 1778063721.1138754,
+    "hash": "d510fc818e2753e7644572774897cb1b"
+  },
+  "/home/manu/Projects/angular-inc/src/app/shared/components/data-table/data-table.component.ts": {
+    "mtime": 1777888511.2583668,
+    "hash": "b074a0714b3a8c4aa46983cbd22f23f3"
+  },
+  "/home/manu/Projects/angular-inc/src/app/shared/components/data-table/data-table.component.spec.ts": {
+    "mtime": 1778063764.1135476,
+    "hash": "76d07fbc11e08b965fce2c86fff470e5"
+  },
+  "/home/manu/Projects/angular-inc/src/app/features/users/users.routes.ts": {
+    "mtime": 1777887057.9201734,
+    "hash": "87edb7cf8ee65e5298550bbdd5817165"
+  },
+  "/home/manu/Projects/angular-inc/src/app/features/users/services/user-api.service.ts": {
+    "mtime": 1777886981.6731234,
+    "hash": "14e01e8f5ed094322539c612e6fdcb04"
+  },
+  "/home/manu/Projects/angular-inc/src/app/features/users/services/mock-user-api.service.ts": {
+    "mtime": 1777889019.1909306,
+    "hash": "e80946d54c086a241d7714c592879f3f"
+  },
+  "/home/manu/Projects/angular-inc/src/app/features/users/state/users.store.ts": {
+    "mtime": 1777886999.995376,
+    "hash": "dd032f6185267e63220e1d8aebdb9e3c"
+  },
+  "/home/manu/Projects/angular-inc/src/app/features/users/state/users.store.spec.ts": {
+    "mtime": 1778063775.6237278,
+    "hash": "4086ac1a6b54564b8e369f75ad4dacd4"
+  },
+  "/home/manu/Projects/angular-inc/src/app/features/users/models/user.model.ts": {
+    "mtime": 1777886975.7340415,
+    "hash": "4f396e39685af2ca3665ce46d65cdd36"
+  },
+  "/home/manu/Projects/angular-inc/src/app/features/users/components/user-list.component.spec.ts": {
+    "mtime": 1778150599.1244779,
+    "hash": "d60fcf141cf9d50e1b8cf85643a5793a"
+  },
+  "/home/manu/Projects/angular-inc/src/app/features/users/components/user-card.component.spec.ts": {
+    "mtime": 1778150048.8761199,
+    "hash": "305dcba71b7f05c1747674ae4e85acfb"
+  },
+  "/home/manu/Projects/angular-inc/src/app/features/users/components/user-list.component.ts": {
+    "mtime": 1777887025.748731,
+    "hash": "b9fd4b77e8cd86b226602df2ab936e29"
+  },
+  "/home/manu/Projects/angular-inc/src/app/features/users/components/user-card.component.ts": {
+    "mtime": 1777887016.1515987,
+    "hash": "5f5ee2a4522d98214397976fcaf9bbf4"
+  },
+  "/home/manu/Projects/angular-inc/src/environments/environment.ts": {
+    "mtime": 1777889006.8307695,
+    "hash": "232848b28ddc5e223a5b3f6a7694c6a7"
+  },
+  "/home/manu/Projects/angular-inc/src/environments/environment.prod.ts": {
+    "mtime": 1777889007.8467827,
+    "hash": "cc7644ad003e4690469273d0942fdc9b"
+  },
+  "/home/manu/Projects/angular-inc/CLAUDE.md": {
+    "mtime": 1778063070.6413107,
+    "hash": "717489d7cf2a2a7ed55609a90fc60f11"
+  },
+  "/home/manu/Projects/angular-inc/README.md": {
+    "mtime": 1777886512.6351767,
+    "hash": "67c23177ee2a2105dc8173d78db135b1"
+  },
+  "/home/manu/Projects/angular-inc/coverage/angular-inc/index.html": {
+    "mtime": 1778150644.1012309,
+    "hash": "b2cd743cc675445817a5465cacec2ab3"
+  },
+  "/home/manu/Projects/angular-inc/coverage/angular-inc/app/app.html.html": {
+    "mtime": 1778150644.1017172,
+    "hash": "7c3050f8baf062db97f7fa7fb1c588e9"
+  },
+  "/home/manu/Projects/angular-inc/coverage/angular-inc/app/index.html": {
+    "mtime": 1778150644.1014686,
+    "hash": "a969618336cb78b77199ae44c63f600b"
+  },
+  "/home/manu/Projects/angular-inc/coverage/angular-inc/app/app.ts.html": {
+    "mtime": 1778150644.1020482,
+    "hash": "885126f46752ecbfa575742807ee6263"
+  },
+  "/home/manu/Projects/angular-inc/coverage/angular-inc/app/shared/components/data-table/index.html": {
+    "mtime": 1778150644.105002,
+    "hash": "cf0db1de10d6ba7c801ce58f5af279db"
+  },
+  "/home/manu/Projects/angular-inc/coverage/angular-inc/app/shared/components/data-table/data-table.component.ts.html": {
+    "mtime": 1778150644.1057682,
+    "hash": "16035222ea90dbe851090a91564e5e3a"
+  },
+  "/home/manu/Projects/angular-inc/coverage/angular-inc/app/features/users/services/user-api.service.ts.html": {
+    "mtime": 1778150644.103998,
+    "hash": "99deace920a4fa492c8bcf3053b6a762"
+  },
+  "/home/manu/Projects/angular-inc/coverage/angular-inc/app/features/users/services/index.html": {
+    "mtime": 1778150644.1036763,
+    "hash": "04c907ac1b220610d578502e10974219"
+  },
+  "/home/manu/Projects/angular-inc/coverage/angular-inc/app/features/users/state/users.store.ts.html": {
+    "mtime": 1778150644.1046755,
+    "hash": "eb1ae6a7d17ab3a7ba007f0ec6f91b7d"
+  },
+  "/home/manu/Projects/angular-inc/coverage/angular-inc/app/features/users/state/index.html": {
+    "mtime": 1778150644.1042423,
+    "hash": "c55228f39a0190ba74c8b012740278d2"
+  },
+  "/home/manu/Projects/angular-inc/coverage/angular-inc/app/features/users/components/user-list.component.ts.html": {
+    "mtime": 1778150644.103033,
+    "hash": "f6c9f8f15f8b5baeba7ab107713b962f"
+  },
+  "/home/manu/Projects/angular-inc/coverage/angular-inc/app/features/users/components/index.html": {
+    "mtime": 1778150644.1022515,
+    "hash": "3989a2c47636bae3bbf22ae6a2cce6b7"
+  },
+  "/home/manu/Projects/angular-inc/coverage/angular-inc/app/features/users/components/user-card.component.ts.html": {
+    "mtime": 1778150644.1025968,
+    "hash": "51869f019248fed16721222e800a2478"
+  },
+  "/home/manu/Projects/angular-inc/coverage/angular-inc/lcov-report/index.html": {
+    "mtime": 1778150644.0930357,
+    "hash": "4dd54d174241a03c916fceef72355672"
+  },
+  "/home/manu/Projects/angular-inc/coverage/angular-inc/lcov-report/app/app.html.html": {
+    "mtime": 1778150644.0944088,
+    "hash": "24ef36d28191c85c1f35751e40c5857e"
+  },
+  "/home/manu/Projects/angular-inc/coverage/angular-inc/lcov-report/app/index.html": {
+    "mtime": 1778150644.0932972,
+    "hash": "6b5e563ef8edbc354dd198f7ab747478"
+  },
+  "/home/manu/Projects/angular-inc/coverage/angular-inc/lcov-report/app/app.ts.html": {
+    "mtime": 1778150644.0951493,
+    "hash": "421bec23e309d1a19e231355c67b019e"
+  },
+  "/home/manu/Projects/angular-inc/coverage/angular-inc/lcov-report/app/shared/components/data-table/index.html": {
+    "mtime": 1778150644.098352,
+    "hash": "066b2684442a0cd8aebe72dd084b9de4"
+  },
+  "/home/manu/Projects/angular-inc/coverage/angular-inc/lcov-report/app/shared/components/data-table/data-table.component.ts.html": {
+    "mtime": 1778150644.0990262,
+    "hash": "c54796fe7b0874937474f62516263cc7"
+  },
+  "/home/manu/Projects/angular-inc/coverage/angular-inc/lcov-report/app/features/users/services/user-api.service.ts.html": {
+    "mtime": 1778150644.0976102,
+    "hash": "35f1c0de690e042552603daaba824c14"
+  },
+  "/home/manu/Projects/angular-inc/coverage/angular-inc/lcov-report/app/features/users/services/index.html": {
+    "mtime": 1778150644.0971513,
+    "hash": "f6a295ef642470e7b04c956103e5b922"
+  },
+  "/home/manu/Projects/angular-inc/coverage/angular-inc/lcov-report/app/features/users/state/users.store.ts.html": {
+    "mtime": 1778150644.098352,
+    "hash": "ffc03014a42c202247fd43d15b9a9ee2"
+  },
+  "/home/manu/Projects/angular-inc/coverage/angular-inc/lcov-report/app/features/users/state/index.html": {
+    "mtime": 1778150644.0978193,
+    "hash": "9b066811fb8676bc55d6574cab974879"
+  },
+  "/home/manu/Projects/angular-inc/coverage/angular-inc/lcov-report/app/features/users/components/user-list.component.ts.html": {
+    "mtime": 1778150644.0968874,
+    "hash": "80d1bd2b5b18ef6e48e2cc5f8b0795a1"
+  },
+  "/home/manu/Projects/angular-inc/coverage/angular-inc/lcov-report/app/features/users/components/index.html": {
+    "mtime": 1778150644.0956147,
+    "hash": "f1960d881009e47972f848d427c81c4e"
+  },
+  "/home/manu/Projects/angular-inc/coverage/angular-inc/lcov-report/app/features/users/components/user-card.component.ts.html": {
+    "mtime": 1778150644.0962229,
+    "hash": "25bf1863b351a01bfeedbf2c84a221cd"
+  },
+  "/home/manu/Projects/angular-inc/src/index.html": {
+    "mtime": 1777886512.6360927,
+    "hash": "85bdc2188bf0cdeb0eb717cb1991df0d"
+  },
+  "/home/manu/Projects/angular-inc/src/app/app.html": {
+    "mtime": 1777890213.6800003,
+    "hash": "60e689b630cc667d9daa3d452aba8e39"
+  },
+  "/home/manu/Projects/angular-inc/coverage/angular-inc/favicon.png": {
+    "mtime": 1778150644.1004179,
+    "hash": "8c814a46f24208d0bc459bb2cf8b7b88"
+  },
+  "/home/manu/Projects/angular-inc/coverage/angular-inc/sort-arrow-sprite.png": {
+    "mtime": 1778150644.100537,
+    "hash": "fd08a5625d21e34b1d6d9c026f2728a9"
+  },
+  "/home/manu/Projects/angular-inc/coverage/angular-inc/lcov-report/favicon.png": {
+    "mtime": 1778150644.091636,
+    "hash": "8c814a46f24208d0bc459bb2cf8b7b88"
+  },
+  "/home/manu/Projects/angular-inc/coverage/angular-inc/lcov-report/sort-arrow-sprite.png": {
+    "mtime": 1778150644.0917246,
+    "hash": "fd08a5625d21e34b1d6d9c026f2728a9"
+  }
+}
